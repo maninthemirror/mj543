@@ -142,7 +142,6 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p><strong>他毫不保留的展示自身的不堪，這次，不問也不期待「你會愛我嗎？」</strong></p>
 <p>那個全世界都知道他極度缺愛的麥可，並不存在麥可的黑暗人格之中。</p>
 <p>又或著黑暗人格的麥可，悲觀地發現，他的缺愛已經沒有索求的來源了，只剩下止痛藥會對他說：</p>
-<div style="height:20px"></div>
 <p style="font-size:1.3rem"><strong>Trust in me</strong> </p>
 <div style="height:20px"></div>
 <h2>《Superfly Sister》、<br/>《Ghost》、<br/>《Is It Scary》</h2>
