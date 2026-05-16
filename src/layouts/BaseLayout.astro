@@ -1,0 +1,148 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  ogImage?: string;
+  ogType?: 'website' | 'article';
+}
+
+const {
+  title,
+  description,
+  ogImage = '/og-default.jpg',
+  ogType = 'website',
+} = Astro.props;
+
+const baseURL = import.meta.env.BASE_URL;
+const withBase = (value: string) => {
+  if (/^https?:\/\//.test(value)) return value;
+  const base = baseURL.endsWith('/') ? baseURL : `${baseURL}/`;
+  return value.startsWith('/') ? `${base}${value.slice(1)}` : `${base}${value}`;
+};
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const imageURL = new URL(withBase(ogImage), Astro.site);
+---
+
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={imageURL.toString()} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:url" content={canonicalURL.toString()} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={imageURL.toString()} />
+    <link rel="icon" type="image/svg+xml" href={withBase('/favicon.svg')} />
+    <link rel="icon" href={withBase('/favicon.ico')} />
+    <link rel="canonical" href={canonicalURL.toString()} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <a href={withBase('/')} class="brand">Michael Jackson小事考察委員會</a>
+    </header>
+    <main>
+      <slot />
+    </main>
+  </body>
+</html>
+
+<style is:global>
+  :root {
+    --bg: #f8f7f4;
+    --paper: #fff;
+    --text: #1c1c1c;
+    --muted: #666;
+    --border: #e5e2db;
+    --max-width: 760px;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    font-family: "Noto Serif TC", "PingFang TC", "Microsoft JhengHei", serif;
+    background: radial-gradient(circle at top, #fff 0%, var(--bg) 45%);
+    color: var(--text);
+    line-height: 1.9;
+  }
+
+  .site-header {
+    padding: 1.25rem 1rem;
+    border-bottom: 1px solid var(--border);
+    background: color-mix(in srgb, #fff 85%, transparent);
+    position: sticky;
+    top: 0;
+    backdrop-filter: blur(6px);
+  }
+
+  .brand {
+    display: block;
+    margin: 0 auto;
+    max-width: var(--max-width);
+    color: var(--text);
+    text-decoration: none;
+    font-size: 0.95rem;
+    letter-spacing: 0.04em;
+  }
+
+  main {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 2rem 1rem 4rem;
+  }
+
+  img { max-width: 100%; height: auto; border-radius: 10px; }
+
+  article p { margin: 1.1rem 0; }
+  article h1, article h2, article h3, article h4, article h5, article h6 {
+    line-height: 1.35;
+    margin: 2rem 0 0.9rem;
+  }
+  article blockquote {
+    margin: 1.4rem 0;
+    padding: 0.2rem 0 0.2rem 1rem;
+    border-left: 3px solid #b4a89a;
+    color: #3c3a37;
+  }
+  article ul, article ol { padding-left: 1.4rem; }
+
+  .embed {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 12px;
+    margin: 1.4rem 0;
+    background: #000;
+  }
+
+  .embed.youtube { padding-top: 56.25%; }
+  .embed.spotify { padding-top: 26%; min-height: 152px; background: #121212; }
+
+  .embed iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+  figure { margin: 1.6rem 0; }
+  figcaption {
+    margin-top: 0.5rem;
+    color: var(--muted);
+    font-size: 0.92rem;
+  }
+
+  @media (max-width: 640px) {
+    main { padding-top: 1.2rem; }
+    body { line-height: 1.8; }
+  }
+</style>

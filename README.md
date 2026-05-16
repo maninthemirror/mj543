@@ -1,43 +1,62 @@
-# Astro Starter Kit: Minimal
+# Michael Jackson小事考察委員會
 
-```sh
-npm create astro@latest -- --template minimal
+Astro + Markdown 的 GitHub Pages 長文網站。
+
+## 上線網址
+
+- Repository：`mj543`（放在 `maninthemirror` 帳號下）
+- 站點網址：`https://maninthemirror.github.io/mj543/`
+
+## 本機開發
+
+```bash
+npm install
+npm run dev
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 新增文章
 
-## 🚀 Project Structure
+1. 在 `src/content/posts/` 新增 `*.md`。
+2. frontmatter 必填：
 
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
+```md
+---
+title: "文章標題"
+description: "摘要"
+pubDate: 2026-05-16
+updatedDate: 2026-05-16
+cover: "/images/xxx.jpg"
+coverAlt: "封面說明"
+tags: ["tag1", "tag2"]
+draft: false
+ogImage: "/images/xxx.jpg"
+---
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+3. 檔名會對應網址：
+- `src/content/posts/botdf30.md` -> `/botdf30/`
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## Notion 轉換建議
 
-Any static assets, like images, can be placed in the `public/` directory.
+- 標題、段落、blockquote、清單：直接貼 Markdown。
+- 圖片盡量放本地：`public/images/...`。
+- YouTube / Spotify 可用 iframe（已有樣式支援 `.embed.youtube`、`.embed.spotify`）。
 
-## 🧞 Commands
+## 外部連結行為
 
-All commands are run from the root of the project, from a terminal:
+- 外部連結會自動加上：
+- `target="_blank"`
+- `rel="noopener noreferrer"`
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## 文字顏色
 
-## 👀 Want to learn more?
+Markdown 原生不支援文字顏色，可用行內 HTML：
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+```html
+<span class="text-red">這段是紅色</span>
+```
+
+## 部署
+
+- push 到 `main` 會觸發 `.github/workflows/deploy.yml` 自動部署。
+- GitHub repo 設定中，Pages Source 選 `GitHub Actions`。
