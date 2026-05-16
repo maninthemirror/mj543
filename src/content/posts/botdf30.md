@@ -142,10 +142,9 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p><strong>他毫不保留的展示自身的不堪，這次，不問也不期待「你會愛我嗎？」</strong></p>
 <p>那個全世界都知道他極度缺愛的麥可，並不存在麥可的黑暗人格之中。</p>
 <p>又或著黑暗人格的麥可，悲觀地發現，他的缺愛已經沒有索求的來源了，只剩下止痛藥會對他說：</p>
-<p></p>
-<p style="font-size:1.5rem"><strong>Trust in me</strong> </p>
-<p></p>
-<div style="height:40px"></div>
+<div style="height:20px"></div>
+<p style="font-size:1.3rem"><strong>Trust in me</strong> </p>
+<div style="height:20px"></div>
 <h2>《Superfly Sister》、<br/>《Ghost》、<br/>《Is It Scary》</h2>
 <p>光前面兩首歌，就造成很強的情緒重擊，這30年來除了因為《Ghost》有電影作品而比較有討論外，多半我們也會聚焦在這兩首歌，剩下三首也蠻有趣的：</p>
 <p>《Superfly Sister》就是一種很輕，像是輕浮的對他人感情的各種碎念，如果我們都同意這是一張麥可黑暗人格的專輯，來聽這首歌就會很有趣。</p>
