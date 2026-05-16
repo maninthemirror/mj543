@@ -15,8 +15,8 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>我喜歡那些全盛期的作品，但對於這首歌的感情是繞樑、反覆聆聽式的沉迷，我認為聽音樂是極度私人的事情，歌曲中的韻味跟化學效應，是一種需要鼓足勇氣才能向他人解釋的情緒，我很難在他人談論麥可時，說血染舞池的方方面面都讓我無法呼吸。</p>
 <figure><img alt="《Blood on the Dance Floor》專輯封面" height="894" src="/mj543/images/botdf30/cover-2.jpg" width="894"/><figcaption>《Blood on the Dance Floor》專輯封面</figcaption></figure>
 <p>不過隨著2026年電影《麥可傑克森》上映後，事情變得有趣了。</p>
-<p>至少在台灣網路，人們是聚焦在麥可的音樂所帶來的快樂，帶來了更多麥可的新歌迷。許多占星或玄學家喜歡說2026是一個業力清算的年份，許多事情都會得到公道的評價，千禧年前後，仇恨、獵奇與謠言，曾長時間遮蔽人們重新觀看他作品的視線。</p>
-<p>這些烏雲似乎快要被吹散了，他好像快要得到身為藝術家應有的待遇了，我也因此得到勇氣，在世人終於正眼看著他熠熠發光的成就時，從窩著的角落衝出來說：</p>
+<p>至少在台灣網路，人們是聚焦在麥可的音樂所帶來的快樂，帶來了更多麥可的新歌迷。許多占星或玄學家喜歡說2026是一個業力清算的年份，許多事情都會得到公道的評價，千禧年前後，針對麥可傑克森的仇恨、獵奇與謠言，曾長時間遮蔽人們觀看他作品的視線。</p>
+<p>這些烏雲似乎快要被吹散了，麥可好像快要得到身為藝術家應有的待遇了，我也因此得到勇氣，在世人終於正眼看著他熠熠發光的成就時，從窩著的角落衝出來說：</p>
 <p>「嘿，我也想分享我的寶物《血染舞池》，這雖然有點冷門。」</p>
 <p>在這張專輯中，我們會看到沈沒於比夜色還深處的麥可，沒有光亮、充滿絕望，連在HIStory中強大憤怒都消失無蹤，可是它是製作於HIStory巡演中間的時期。</p>
 <figure><img alt="HIStory World Tour at the Olympic Stadium on July 4th 1997 in Munich, Germany. (Photo by Bernd Muller/Redferns)" height="707" src="/mj543/images/botdf30/p3-2.jpg" width="1024"/><figcaption>HIStory World Tour at the Olympic Stadium on July 4th 1997 in Munich, Germany. (Photo by Bernd Muller/Redferns)</figcaption></figure>
@@ -26,11 +26,12 @@ ogImage: "/images/botdf30/feature2.jpg"
 <h3>Blood On The Dance Floor歌名由來</h3>
 <p>1990 年 6 月泰迪·萊利(Teddy Riley)窩在錄音室裡，麥可新的製作人面試將近，他為了拼命的做一些demo，而缺席了好友的生日派對，但沒多久後，有人告訴他，派對舞池中有人遭到槍擊。他深受震撼。年僅 23 歲的他，暴力與死亡已成為他生命中反覆出現的主題。一年內，他的手足和最好的朋友也都相繼被殺。</p>
 <figure class="img-narrow"><img alt="Teddy Riley" src="/mj543/images/botdf30/960px-90-27s_Block_Party_Tour.jpg"/><figcaption>Teddy Riley</figcaption></figure>
-<p>萊利當晚製作的節奏音軌充滿攻擊性、陰沉且威脅感十足。但那時還沒有歌名、沒有歌詞，也沒有旋律。面試時，麥可仔細聽了萊利帶來的帶子，立刻愛上了這些音軌，使用了他以往不習慣的和弦，節奏新鮮且前衛，鼓點伴隨著速度擺動，像大錘一樣重擊人心。</p>
-<p>但萊利並沒有跟他說這段節奏的來由是什麼，幾週後，當他得知，麥可將歌名取名為《Blood on the Dance Floor》。萊利起了雞皮疙瘩。「他就像未卜先知一樣，感受到了其中的情緒。」在隨後的幾個月裡，兩人投入Dangerous專輯的製作中，不過麥可覺得血染舞池完成度不夠，所以並沒有收入在Dangerous專輯中。</p>
+<p>萊利當晚製作的節奏音軌充滿攻擊性、陰沉且威脅感十足。但那時還沒有歌名、沒有歌詞，也沒有旋律。面試時，麥可仔細聽了萊利帶來的帶子，立刻愛上了這些不尋常的和弦，節奏新鮮且前衛，鼓點伴隨著速度擺動，像大錘一樣重擊人心。</p>
+<p>但萊利並沒有跟他說這段節奏的來由是什麼，幾週後，當知道麥可將歌名取名為《Blood on the Dance Floor》。</p>
+<p>萊利起了雞皮疙瘩：「他就像未卜先知一樣，感受到了其中的情緒。」在隨後的幾個月裡，兩人投入《Dangerous》專輯的製作中，不過麥可覺得血染舞池完成度不夠，所以並沒有收入在《Dangerous》專輯中。</p>
 <h3>我們從MV來細品這首歌吧</h3>
 <h3>版本差異</h3>
-<p>《Blood on the Dance Floor》在串流上，你幾乎只能找到正規專輯中收錄的版本，其他的混音版本，則散落在當年英國、美國、歐洲發行的實體單曲中。</p>
+<p>《Blood on the Dance Floor》歌曲在串流上，應該只能找到專輯中的收錄版，其他的混音版本的歌曲，則散落在當年英國、美國、歐洲發行的實體單曲中。</p>
 <p>MV部分，則有三個官方版本，以及一隻未獲發行，傳說中的8mm版本，整理同下：</p>
 <ul>
 <li>歌曲版本：收錄的地方</li>
@@ -41,7 +42,8 @@ ogImage: "/images/botdf30/feature2.jpg"
 </ul>
 <h3>《Blood on the Dance Floor》專輯版MV</h3>
 <div class="embed youtube"><iframe allowfullscreen="true" loading="lazy" src="https://www.youtube.com/embed/c3_NntYhzV4?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-tw&amp;autohide=2&amp;wmode=transparent"></iframe></div>
-<p>專輯版本的MV是串流時代最多人看到的版本，也最符合歌詞的意境與發展的一個。麥可穿越舞池，像是講述著一件他觀察到的恐怖狀況：「有個叫做蘇西的女人，她懂玩，她很危險。」這在麥可作品中，是一種很少見的視角，在麥可的蛇蠍美人歌曲中，舉凡Billie Jean、Dirty Diana、Dangerous都是以第一人稱創作出發，他受害、他恐懼，而在血染舞池不是，讓麥可處於一個「道德高地」。他不是那個被殺的人，也不是那個殺人的人，他是那個告訴你「死期將至」的預言家：</p>
+<p>專輯版本的MV是串流時代最多人看到的版本，也最符合歌詞的意境與發展的一個。麥可穿越舞池，像是講述著一件他觀察到的恐怖狀況：「有個叫做蘇西的女人，她懂玩，她很危險。」</p>
+<p>這在麥可作品中，是一種很少見的視角，在麥可的蛇蠍美人歌曲中，舉凡Billie Jean、Dirty Diana、Dangerous都是以第一人稱創作出發，他受害、他恐懼。但在血染舞池中，麥可處於一個「道德高地」。他不是那個被殺的人，也不是那個殺人的人，他是那個告訴你「死期將至」的預言家：</p>
 <blockquote>
 <p><em><strong>Since you seduced her</strong> <br/>既然是你先勾引她的 <br/><strong>how does it feel</strong> <br/>感覺如何 <br/><strong>to know that woman is out to kill?</strong> <br/>知道那個女人是來取你性命的嗎？</em></p>
 </blockquote>
@@ -67,19 +69,19 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>而這個難民營混音版的MV，則是介於8mm與專輯版之間，比較平衡的版本。比起專輯版本能配合歌詞做一點劇情推進，他更加的著重在舞蹈的呈現，畢竟專輯版都能把我們弄到停止呼吸了，心裡狂喊「想多看一點」的那段地板舞蹈，非常辣，在難民營混音版就能多窺見一些。</p>
 <figure><img alt="Blood on the Dance Floor MV 截圖" height="665" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-22.02.33-1.png" width="1024"/></figure>
 <figure><img alt="Blood on the Dance Floor MV 截圖" height="665" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-22.10.33.png" width="1024"/></figure>
-<p>在專輯版MV有些細節是斷裂的，例如沙鈴、折疊刀、刀子射向寫有Susie+Me的木板，當然歌迷會去猜測它們「代表什麼」，其實都很難去遮掩它們出現的很沒頭沒腦的事實。例如在專輯版MV中，開頭跟結尾，都是刀子射向寫有Susie+Me的木板，我根本搞不懂那要表達什麼，當然很多人都透過歌詞去說「這是麥可終究被蘇西捅刀的隱喻」</p>
-<p>難民營混音版的MV，把這些沒頭沒尾的隱喻處理得更流暢，例如開場是那張Susie+Me的塗鴉木板，MV最終，畫面隱約暗示「麥可在高速連續旋轉中，自己擲出刀子射向木板的」，這個做法比起我們去猜測麥可被殺了，更加充滿想像力，其實Susie+Me，倒頭來兩人會不會是同一種東西呢？</p>
+<p>在專輯版MV有些細節是斷裂的，例如沙鈴、折疊刀、刀子射向寫有Susie+Me的木板，當然歌迷會去猜測它們「代表什麼」，其實都很難去遮掩它們出現的很沒頭沒腦的事實。例如在專輯版MV中，開頭跟結尾，都是刀子射向寫有Susie+Me的木板，很多解析是透過歌詞去說「這是麥可終究被蘇西捅刀的隱喻」，但我根本看不懂那要表達什麼。</p>
+<p>難民營混音版的MV，把這些沒頭沒腦的隱喻處理得更流暢，例如開場是那張Susie+Me的塗鴉木板，MV最終，畫面隱約暗示「麥可在高速連續旋轉中，自己擲出刀子射向木板的」，這個做法比起我們去猜測麥可被殺了，更加充滿想像力，其實Susie+Me，倒頭來兩人會不會是同一種東西呢？</p>
 <figure><img alt="Blood on the Dance Floor MV 截圖" height="665" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-22.11.22.png" width="1024"/></figure>
 <p>事實說來，這隻MV的整體場景並沒有跨越過時代，甚至發行時有些歌迷就覺得俗氣了，例如說哪家夜店長成這樣？</p>
 <p>但用2026的角度來看，我覺得全部把他歸成90s吧，那些90s的歐陸混音MV畫面大概都長這樣，有點低成本，但我真心喜歡的裡面帶有酷兒氣質的舞者們，讓MV中的異色感更重，要說麥可過去做的事情都會成為「王道」的標竿，那這個作品的問題就在於他太過異色。</p>
 <h3>TM’s Switchblade Mix 版本(未發行的8mm版本)</h3>
 <div class="embed youtube"><iframe allowfullscreen="true" loading="lazy" src="https://www.youtube.com/embed/GeTx0SaIF6Y?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-tw&amp;autohide=2&amp;wmode=transparent"></iframe></div>
-<p>這個被棄用的8mm拍攝版本，這是最最有趣的一個版本，導演表示：麥可本人喜歡這版本，但SONY不喜歡，拒絕發行。</p>
+<p>這個被棄用的8mm拍攝版本，是最、最、最有趣的一個版本，導演表示：麥可本人喜歡這版本，但SONY不喜歡，拒絕發行。</p>
 <p>這是網路上流傳的版本，真偽不確定，但網路考古普遍相信是真，完全就是樂評說的「畫面粗糙、曝光過度，而且性感得要命」。</p>
 <figure><img alt="我愛這個場景，蘇西像是暗影一樣抱著麥可。" height="424" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-22.25.07.jpg" width="600"/><figcaption>我愛這個場景，蘇西像是暗影一樣抱著麥可。</figcaption></figure>
 <p>在上面兩個版本中，我們會聚焦蘇西這個明顯的角色，甚至有點劇情，例如蘇西拿刀最後會殺麥可嗎？但在8mm，完全沒有敘事，是一種強烈又直白的VIBE，派對跟慾望，你會覺得舞池的全員都是蘇西。</p>
-<p>凌亂的運鏡、更擁擠的舞群、更多的觸摸，畫面中麥可為慾望掙扎、勾引到被吞沒，慾望在畫面粗糙的粒子中卻是最清晰的氛圍，但沈浸其中麥可是不是也是蘇西呢？</p>
-<p>的確很多作品中麥可是性感的、為關係掙扎的，但從沒這樣在氣息中逐漸墮落、混亂。</p>
+<p>凌亂的運鏡、更擁擠的舞群、更多的觸摸，畫面中麥可為慾望載浮載沉、被勾引到被吞沒，慾望在畫面粗糙的粒子中，卻是最清晰的氛圍，沈浸其中麥可是不是也是蘇西呢？</p>
+<p>的確很多作品中麥可是性感的、為關係掙扎的，但從沒這樣在吐息中逐漸墮落、混亂。</p>
 <p>性感的要命，簡直把人逼瘋，這是1997年，這位男士難道就是歷史巡演中，穿著軍裝，雕像豎立那個偉大的男人嗎？</p>
 <figure><img alt="兄弟，SONY一定是想要這個啊。" height="529" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-23.39.31.png" width="1024"/><figcaption>兄弟，SONY一定是想要這個啊。</figcaption></figure>
 <p>這種黑暗與危險，SONY會瘋掉不意外，歷史巡演中間叫你弄個專輯出來，是這樣沒錯但不是這樣啊！</p>
@@ -102,7 +104,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <blockquote>
 <p><em><strong>You’re doin’ morphine, hoo!</strong> <br/>你正在嗑嗎啡啊，hoo！</em></p>
 </blockquote>
-<p>然後是急促的敲擊聲，還有一些聲音的片段</p>
+<p>揭露後，是急促的敲擊聲，接著一些聲音的片段</p>
 <blockquote>
 <p><em>“You heard what the doctor said" </em><br/><em>「你聽到醫生說的了」<br/>“First conclude—" </em><br/><em>「先說結論——」<br/>“I take it—" </em><br/><em>「我認為——」<br/>“A matter pre—" </em><br/><em>「這是一種——」<br/>“That your mind is—" </em><br/><em>「你的精神已經——」<br/>“Hahaha"</em><br/><em>「哈哈哈」</em></p>
 </blockquote>
@@ -118,9 +120,9 @@ ogImage: "/images/botdf30/feature2.jpg"
 <blockquote>
 <p><em>Relax, this won’t hurt you <br/>Before I put it in<br/>Close your eyes and count to ten <br/>Don’t cry, I won’t convert you <br/>There’s no need to dismay <br/>Close your eyes and drift away<br/><br/>放輕鬆，這不會傷害你 <br/>在我把它注射進去之前 <br/>請閉上眼睛，數到十 <br/>別哭，我不會改變你 沒必要害怕 <br/>閉上眼，慢慢漂走吧</em></p>
 </blockquote>
-<p>像是藥效隨著血液的走動，輕柔的生效了，舒服得讓人感覺輕飄飄的，就算是歌詞是驚呼「Demerol，天啊，他正在打 Demerol」，唱起來也像是一種讚嘆，像是像是Demerol能把你這輩子所有肉身的苦痛，飄往冥河最遠端。</p>
+<p>像是藥效隨著血液的走動，輕柔的生效了，舒服得讓人感覺輕飄飄的，麥可唱得極輕柔，就算是歌詞是驚呼「Demerol，天啊，他正在打 Demerol」，唱起來也像是一種讚嘆，像是像是Demerol能把你這輩子所有肉身的苦痛，飄往冥河最遠端。</p>
 <p>很遺憾，只有肉身，而且它不持久。</p>
-<p>這些美聲在藥效退了以後，又是無止盡的腦中內耗與自我厭惡，震耳欲聾，用語更加的惡毒。</p>
+<p>這些美聲在藥效退了以後，又是無止盡的腦中內耗與自我厭惡，震耳欲聾，歌詞更加的惡毒。</p>
 <p>一次又一次，外人的聲音似乎越來越糊，</p>
 <p>他又在嗑嗎啡、連她也在嗑嗎啡，最終，只剩肉身坐在那裡，進入死循環。</p>
 <blockquote>
@@ -128,7 +130,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 </blockquote>
 <p><br/>這樣的收尾讓人冷汗直流。</p>
 <p>在後世對麥可傑克森的研究中，很容易發現，麥可在公開訪問裡，總喜歡耍一些彆腳的小把戲，像是想把真正的自己藏起來似的。</p>
-<p>例如他在《Thriller》的幕後製作花絮中，會說自己不看恐怖片，因為會被嚇到。但其實他非常喜歡恐怖電影，甚至後來還和恐怖大師史蒂芬·金（Stephen King）共同創作了《Ghosts》（鬼怪）。</p>
+<p>例如他在《Thriller》的幕後製作花絮中，會說自己不看恐怖片，因為會被嚇到。但其實他非常喜歡恐怖電影，甚至後來還和恐怖大師史蒂芬·金(Stephen King)共同創作了《Ghosts》（鬼怪）。</p>
 <p>又或者，當記者問起他的創作時，他會說歌曲不是他寫的，而是上帝透過網路傳遞給他的。這並不是在說謊，而更像是一種避重就輕的胡說八道。</p>
 <p>總是把真心埋在名為神、宇宙，埋在名為Diana、還有Billie底下，你不太知道他是真的受害，還是從中嚐到一點甜頭？麥可也並非不真誠，他會跟你真誠的說他的濟世心願，他會說他在徘徊在異國街頭，清冷且寂寞。</p>
 <p>但他不曾對《Morphine》發表任何看法，你卻很明白的感受到他出事了，如此坦白，讓人極度不安，作為歌迷，我們被他療癒、被他激勵，感受憤怒、脆弱或寂寞。</p>
