@@ -1,5 +1,6 @@
 ---
-title: "衝向無盡的黑暗｜麥可傑克森《Blood On The Dance Floor》血染舞池 發行30週年 - Michael Jackson小事考察委員會"
+title: "衝向無盡的黑暗｜麥可傑克森《Blood On The Dance Floor》血染舞池 發行30週年深度考察"
+seoTitle: "衝向無盡的黑暗｜麥可傑克森《Blood On The Dance Floor》血染舞池 發行30週年深度考察 - Michael Jackson小事考察委員會"
 description: "15年來，我沉溺在這張近乎邪典的專輯中，這篇文章，會從血染舞池開始，深度考察那些快被遺忘的MV版本，重新凝視1997的麥可在最封神的時期，卻偷偷長出黑暗的藝術家性格。"
 pubDate: 2026-05-16
 updatedDate: 2026-05-16
@@ -27,8 +28,8 @@ ogImage: "/images/botdf30/feature2.jpg"
 <figure class="img-narrow"><img alt="" src="/mj543/images/botdf30/960px-90-27s_Block_Party_Tour.jpg"/><figcaption>Teddy Riley</figcaption></figure>
 <p>萊利當晚製作的節奏音軌充滿攻擊性、陰沉且威脅感十足。但那時還沒有歌名、沒有歌詞，也沒有旋律。面試時，麥可仔細聽了萊利帶來的帶子，立刻愛上了這些音軌，使用了他以往不習慣的和弦，節奏新鮮且前衛，鼓點伴隨著速度擺動，像大錘一樣重擊人心。</p>
 <p>但萊利並沒有跟他說這段節奏的來由是什麼，幾週後，當他得知，麥可將歌名取名為《Blood on the Dance Floor》。萊利起了雞皮疙瘩。「他就像未卜先知一樣，感受到了其中的情緒。」在隨後的幾個月裡，兩人投入Dangerous專輯的製作中，不過麥可覺得血染舞池完成度不夠，所以並沒有收入在Dangerous專輯中。</p>
-<h3>我們從MV來細品這首歌吧</h3>
-<h4>版本差異</h4>
+<p style="font-size: 1.17em;line-height: 1.35;font-weight: bold;">我們從MV來細品這首歌吧</p>
+<h3>版本差異</h3>
 <p>《Blood on the Dance Floor》在串流上，你幾乎只能找到正規專輯中收錄的版本，其他的混音版本，則散落在當年英國、美國、歐洲發行的實體單曲中。</p>
 <p>MV部分，則有三個官方版本，以及一隻未獲發行，傳說中的8mm版本，整理同下：</p>
 <ul>
@@ -39,7 +40,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <li>TM’s Switchblade Mix 版本：未發行的8mm版本</li>
 </ul>
 
-<h4>《Blood on the Dance Floor》專輯版MV</h4>
+<h3>《Blood on the Dance Floor》專輯版MV</h3>
 <div class="embed youtube"><iframe allowfullscreen="true" loading="lazy" src="https://www.youtube.com/embed/c3_NntYhzV4?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-tw&amp;autohide=2&amp;wmode=transparent"></iframe></div>
 <p>專輯版本的MV是串流時代最多人看到的版本，也最符合歌詞的意境與發展的一個。麥可穿越舞池，像是講述著一件他觀察到的恐怖狀況：「有個叫做蘇西的女人，她懂玩，她很危險。」這在麥可作品中，是一種很少見的視角，在麥可的蛇蠍美人歌曲中，舉凡Billie Jean、Dirty Diana、Dangerous都是以第一人稱創作出發，他受害、他恐懼，而在血染舞池不是，讓麥可處於一個「道德高地」。他不是那個被殺的人，也不是那個殺人的人，他是那個告訴你「死期將至」的預言家：</p>
 <blockquote>
@@ -63,7 +64,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>明明過去的那些情歌在講愛，卻帶著羞澀、性別界線模糊，調情中卻能帶一絲禁慾的氣息的麥可，在血染舞池中不知所蹤，有個黑暗版的麥可，他說「It’s not about love and romance 這不是什麼愛與羅曼史」直接對我們內心最黑暗、最隱密的慾望說話。</p>
 <p>這是第一道我們從血染舞池的裂縫中，看到黑暗版的麥可，我們過去可能在一些表演瞬間、一些歌曲看到這種複雜性，我們嗅得出「他其實什麼都懂。」，但很快的，這個想法又會被那個陽光、輕聲細語又純情善良的彼得潘麥可蓋過。</p>
 
-<h4>Refugee Camp Mix 難民營混音版</h4>
+<h3>Refugee Camp Mix 難民營混音版</h3>
 <div class="embed youtube"><iframe allowfullscreen="true" loading="lazy" src="https://www.youtube.com/embed/DhKlE-Fpdok?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-tw&amp;autohide=2&amp;wmode=transparent"></iframe></div>
 <p>(沒有網路的官方版，來看看粉絲修復版的吧)</p>
 <p>而這個難民營混音版的MV，則是介於8mm與專輯版之間，比較平衡的版本。比起專輯版本能配合歌詞做一點劇情推進，他更加的著重在舞蹈的呈現，畢竟專輯版都能把我們弄到停止呼吸了，心裡狂喊「想多看一點」的那段地板舞蹈，非常辣，在難民營混音版就能多窺見一些。</p>
@@ -75,7 +76,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>事實說來，這隻MV的整體場景並沒有跨越過時代，甚至發行時有些歌迷就覺得俗氣了，例如說哪家夜店長成這樣？</p>
 <p>但用2026的角度來看，我覺得全部把他歸成90s吧，那些90s的歐陸混音MV畫面大概都長這樣，有點低成本，但我真心喜歡的裡面帶有酷兒氣質的舞者們，讓MV中的異色感更重，要說麥可過去做的事情都會成為「王道」的標竿，那這個作品的問題就在於他太過異色。</p>
 
-<h4>TM’s Switchblade Mix 版本(未發行的8mm版本)</h4>
+<h3>TM’s Switchblade Mix 版本(未發行的8mm版本)</h3>
 <div class="embed youtube"><iframe allowfullscreen="true" loading="lazy" src="https://www.youtube.com/embed/GeTx0SaIF6Y?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-tw&amp;autohide=2&amp;wmode=transparent"></iframe></div>
 <p>這個被棄用的8mm拍攝版本，這是最最有趣的一個版本，導演表示：麥可本人喜歡這版本，但SONY不喜歡，拒絕發行。</p>
 <p>這是網路上流傳的版本，真偽不確定，但網路考古普遍相信是真，完全就是樂評說的「畫面粗糙、曝光過度，而且性感得要命」。</p>
@@ -473,6 +474,20 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>嗎啡、嗎啡</p>
 
 </details>
+<h3><storng>《Blood On The Dance Floor》專輯封面誕生故事</strong></h3>
+<figure><img alt="" height="894" src="/mj543/images/botdf30/cover-2.jpg" width="894"/><figcaption>《Blood on the Dance Floor》專輯封面</figcaption></figure>
+<p>這張專輯的封面非常特別，麥可穿著與MV相同的紅色西裝，在一個半透明的舞池裡跳舞，背景則是充滿科幻感的城市夜空。超現實並充滿神秘感的呈現，多年流傳著各種瘋狂的陰謀論，有人說這代表麥可在反抗光明會、有人說這預言了 9/11 恐怖攻擊，甚至還有人扯到血祭。</p>
+<p>2012年，作家Pez Jax 特別採訪了封面作者威爾·威爾森（Will Wilson），帶大家回到當年的創作現場。</p>
+<p>在所有封面拍攝計劃都趕不上後，決定改用繪製的，剛好麥可之前就很欣賞威爾森的畫作，於是這個重責大任就落到了威爾身上，而且只給短短的三個星期。</p>
+<p>威爾當時收到的指令非常簡單，就是讓麥可在一個半透明的舞池跳舞，背後有些城市街景。至於麥可身上的服裝造型，其實就是MV的造型，威爾收到了一系列參考照片。</p>
+<p>所以網路上那些關於畫作隱喻的謠言，像是手腕上的斷鏈代表被囚禁，威爾笑著澄清說，那只是麥可在MV內戴的手鍊，他只是照著畫，完全沒有任何隱藏的政治或宗教動機。</p>
+<p>不過，結案寄出的最後一刻，發生了一段驚險的小插曲。</p>
+<p>當威爾將作品交給快遞後，家裡的電話突然響了，是麥可本人親自打來的！</p>
+<p>麥可在電話那頭急切地問，「能不能在手腕上加畫一條黑色的臂章？」</p>
+<p>威爾起身狂奔，衝到車道上把司機攔下來，當場開箱幫麥可補上了臂章。</p>
+<p>雖然威爾自己也不知道麥可為什麼堅持要加這個臂章，但總算是驚險完成任務。</p>
+<p>最有趣的是，這張封面雖然沒有那些瘋狂的陰謀論，但確實藏了一個連麥克本人都不知道的「真正祕密」。</p>
+<p>威爾在受訪時首次透露，他的表弟馬修（Matthew Hammond）是麥可的超級大鐵粉。威爾當年承諾表弟，如果自己真的拿到這個工作，就要把表弟的名字縮寫藏進畫裡。於是，在封面左下角的某一棟大樓上，有幾扇亮著燈的窗戶，如果仔細看，它們剛好排列成了「M」和「H」兩個英文字母。這個溫馨又可愛的小彩蛋，才是這張神祕封面背後最真實的故事。</p>
 <h3><strong>官方串流連結</strong></h3>
 <ul>
 <li>Spotify <a href="https://open.spotify.com/album/0RNsFWWdiz1rrdLI1pwbvJ" rel="noopener nofollow" target="_blank">Spotify｜Blood on the Dance Floor: HIStory in the Mix</a></li>
@@ -502,9 +517,9 @@ ogImage: "/images/botdf30/feature2.jpg"
 <li>HIStory (Tony Moran’s HIStory Lesson) </li>
 </ol>
 <h2>參考資料</h2>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Blood_on_the_Dance_Floor:_HIStory_in_the_Mix">https://en.wikipedia.org/wiki/Blood_on_the_Dance_Floor:_HIStory_in_the_Mix</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Blood_on_the_Dance_Floor_(song)"></a><a href="https://en.wikipedia.org/wiki/Blood_on_the_Dance_Floor_(song)">https://en.wikipedia.org/wiki/Blood_on_the_Dance_Floor_(song)</a></li>
+<ul class="references">
+<li><a href="https://en.wikipedia.org/wiki/Blood_on_the_Dance_Floor:_HIStory_in_the_Mix">Blood on the Dance Floor: HIStory in the Mix - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Blood_on_the_Dance_Floor_(song)">Blood on the Dance Floor (song) - Wikipedia</a></li>
 <li><a href="https://www.theatlantic.com/entertainment/archive/2012/03/michael-jacksons-blood-on-the-dance-floor-15-years-later/254877/?utm_source=chatgpt.com">Michael Jackson’s ‘Blood on the Dance Floor,’ 15 Years Later By Joseph Vogel</a></li>
 <li><a href="https://www.themjcast.com/episode-016-jermaine-jackson-is-the-lord-of-the-rings/">THE MJ Cast | Episode 016 – Jermaine Jackson is the Lord of the Rings</a></li>
 <li><a href="https://www.themjcast.com/episode-034-june-25th-special-feat-kevin-stea/">The MJCast | Episode 034 – June 25th Special feat. Kevin Stea</a></li>
@@ -517,6 +532,8 @@ ogImage: "/images/botdf30/feature2.jpg"
 <li><a href="https://onyourmarkus.au/moonwalking-into-the-shadows-revisiting-michael-jacksons-blood-on-the-dance-floor">Moonwalking into the Shadows: Revisiting Michael Jackson’s Blood on the Dance Floor</a></li>
 <li><a href="https://popshifter.com/2013-08-19/why-morphine-is-michael-jacksons-most-personal-song/?utm_source=chatgpt.com">Why “Morphine” Is Michael Jackson’s Most Personal Song By Paul Casey</a></li>
 <li><a href="https://michaeljacksonstudies.org/femmes-fatale-the-dangerous-woman-narrative/">Femmes Fatale – The ‘Dangerous Woman’ Narrative | The Journal of Michael Jackson Academic Studies | ISSN: 2452-049</a></li>
+<li><a href="https://www.pezjax.com/bringing-blood-on-the-dance-floor-to-life/">Bringing Blood On The Dance Floor to Life
+</a></li>
 </ul>
 
 <h2>作者</h2>

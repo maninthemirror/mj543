@@ -23,6 +23,7 @@ npm run dev
 ```md
 ---
 title: "文章標題"
+seoTitle: "文章標題 - Michael Jackson小事考察委員會" # 可選；只影響SEO title/OG
 description: "摘要"
 pubDate: 2026-05-16
 updatedDate: 2026-05-16
@@ -36,6 +37,7 @@ ogImage: "/images/xxx.jpg"
 
 3. 檔名會對應網址：
 - `src/content/posts/botdf30.md` -> `/botdf30/`
+4. `title` 是文內標題（h1），`seoTitle`（可選）只用於 `<title>` 與 OG/Twitter 標題。
 
 ## Notion 轉換建議
 
