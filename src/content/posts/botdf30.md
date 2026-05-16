@@ -24,7 +24,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <h2>《Blood On The Dance Floor》血染舞池</h2>
 <h3>Blood On The Dance Floor歌名由來</h3>
 <p>1990 年 6 月泰迪·萊利(Teddy Riley)窩在錄音室裡，麥可新的製作人面試將近，他為了拼命的做一些demo，而缺席了好友的生日派對，但沒多久後，有人告訴他，派對舞池中有人遭到槍擊。他深受震撼。年僅 23 歲的他，暴力與死亡已成為他生命中反覆出現的主題。一年內，他的手足和最好的朋友也都相繼被殺。</p>
-<figure><img alt="" src="/mj543/images/botdf30/960px-90-27s_Block_Party_Tour.jpg"/><figcaption>Teddy Riley</figcaption></figure>
+<figure class="img-narrow"><img alt="" src="/mj543/images/botdf30/960px-90-27s_Block_Party_Tour.jpg"/><figcaption>Teddy Riley</figcaption></figure>
 <p>萊利當晚製作的節奏音軌充滿攻擊性、陰沉且威脅感十足。但那時還沒有歌名、沒有歌詞，也沒有旋律。面試時，麥可仔細聽了萊利帶來的帶子，立刻愛上了這些音軌，使用了他以往不習慣的和弦，節奏新鮮且前衛，鼓點伴隨著速度擺動，像大錘一樣重擊人心。</p>
 <p>但萊利並沒有跟他說這段節奏的來由是什麼，幾週後，當他得知，麥可將歌名取名為《Blood on the Dance Floor》。萊利起了雞皮疙瘩。「他就像未卜先知一樣，感受到了其中的情緒。」在隨後的幾個月裡，兩人投入Dangerous專輯的製作中，不過麥可覺得血染舞池完成度不夠，所以並沒有收入在Dangerous專輯中。</p>
 <h3>我們從MV來細品這首歌吧</h3>
@@ -57,9 +57,9 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>是的，說書人麥可裂開了，那不是別人的沉淪。他用力的拍桌，承認「我就是忍不住、我就是無法擺脫」那個無法控制慾望、明知道危險卻仍然走進舞池的人，正是麥可自己。</p>
 <p>那些沈淪的舞蹈畫面，幾乎是女性歌迷票選最棒的畫面(姨母笑)，這樣帶著血的氣味、身著深紅色的西裝、招牌的長捲髮綁起了別緻的辮子，在與蘇西忘我的跳著莎莎舞時，辮子甩過肩膀，黑暗而危險⋯⋯又性感爆棚。</p>
 <p>的確我們有Billie Jean的甜美男孩時期、我們見過Remeber the Time的全民王子模樣，我們見過Scream如神般乾淨又性冷淡的面容，但請問這個紅衣男子⋯⋯你的道德在哪裡？良知在哪裡？ 地址又在哪裡？聯絡方式在哪裡？</p>
-<figure><img alt="" height="683" loading="lazy" src="/mj543/images/botdf30/p2-2.jpg" width="1024"/><figcaption>Photo by Bill Nation/Sygma via Getty Images</figcaption></figure>
+<figure><img alt="Photo by Bill Nation/Sygma via Getty Images" loading="lazy" src="/mj543/images/botdf30/p2-2.jpg"/><figcaption>Photo by Bill Nation/Sygma via Getty Images</figcaption></figure>
 
-<figure><img alt="" height="1024" loading="lazy" src="/mj543/images/botdf30/p1-2.webp" width="707"/></figure>
+<figure><img alt=""  loading="lazy" src="/mj543/images/botdf30/p1-2.webp" class="img-narrow"/></figure>
 <p>明明過去的那些情歌在講愛，卻帶著羞澀、性別界線模糊，調情中卻能帶一絲禁慾的氣息的麥可，在血染舞池中不知所蹤，有個黑暗版的麥可，他說「It’s not about love and romance 這不是什麼愛與羅曼史」直接對我們內心最黑暗、最隱密的慾望說話。</p>
 <p>這是第一道我們從血染舞池的裂縫中，看到黑暗版的麥可，我們過去可能在一些表演瞬間、一些歌曲看到這種複雜性，我們嗅得出「他其實什麼都懂。」，但很快的，這個想法又會被那個陽光、輕聲細語又純情善良的彼得潘麥可蓋過。</p>
 
@@ -112,18 +112,21 @@ ogImage: "/images/botdf30/feature2.jpg"
 </blockquote>
 <p>這幾句是來自電影《象人》的對話，《象人》在講述面貌畸形的主角，成為畸形秀商品的悲慘遭遇，麥可對這部電影有非常深的情感投射，這是第二次麥可在作品裡面引用象人的元素，這次是更直白的直接引用電影中的聲音片段</p>
 <div class="embed youtube"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/lUDmTHnj5bs?feature=oembed" title="Elephant Man scenes in Morphine by Michael Jackson!  #michaeljackson #morphine #elephantman #samples"></iframe></div><p><em>Morphine中，取樣自電影象人的聲音片段</em></p>
-<p>這些簡短又不完整的句子，像是斷片前能聽到的外界聲音，開頭到此，在『你在嗑嗎啡啊！』的驚呼後，狀況開始清晰了，外界的聲音是片段的，清晰的語句變得不像麥可在咒罵他人，許多解析喜歡將歌詞中的She與Father認為是麥可對前妻與父親的咒罵，但我傾向那是一個人在精神崩裂時，腦中不同聲音彼此攻擊，只是在腦中的化成了他最害怕的聲音。</p>
+<p>這些簡短又不完整的句子，像是斷片前，能聽到的外界聲音，開頭到此，在『你在嗑嗎啡啊！』的驚呼後，狀況開始清晰了：</p>
+<p>外界的聲音是片段的，清晰的語句變得不像麥可在咒罵他人，許多解析喜歡將歌詞中的She與Father認為是麥可對前妻與父親的咒罵，但我傾向那是一個人在精神崩裂時，腦中不同聲音彼此攻擊，並在腦中的化成了他最害怕的聲音。</p>
 <blockquote>
 <p><em>You make me sick </em><br/><em>你讓人作噁 </em><br/><em>I hate your kind </em><br/><em>我討厭你這種人。 </em><br/><em>You’re a liar </em><br/><em>你是個騙子。 </em><br/><em>So unreliable </em><br/><em>太不可靠了。</em></p>
 </blockquote>
 <p>你說你會變好的、你相信自己走得過的，但你又來了，你又想要醫生給你止痛藥了嗎？可是我的神經好痛、全身都好痛，我睡不著，我真的沒辦法，醫生他說我⋯少騙了，這麼反覆啊你，滿口救世大道理，結果現在還不是靠止痛藥活著？</p>
-<p>焦慮跟自我厭惡繃到了極限的時刻，又是那個誠懇的「相信我」的呼喚，然後，Go on babe！的呼喊一出，是一連串如同快要毀壞的機器，卻不斷運轉的金屬聲，令人焦躁不知何時會停的時刻，輕柔的琴聲與弦樂出現了</p>
+<p>焦慮跟自我厭惡繃到了極限的時刻，又是那個誠懇的「相信我」的呼喚。然後，Go on babe！的呼喊一出，一連串如同快要毀壞的機器，卻不斷運轉的金屬聲，在焦躁到不知何時會停的時刻，輕柔的琴聲與弦樂出現了</p>
 <blockquote>
 <p><em>Relax, this won’t hurt you <br/>Before I put it in<br/>Close your eyes and count to ten <br/>Don’t cry, I won’t convert you <br/>There’s no need to dismay <br/>Close your eyes and drift away<br/><br/>放輕鬆，這不會傷害你 <br/>在我把它注射進去之前 <br/>請閉上眼睛，數到十 <br/>別哭，我不會改變你 沒必要害怕 <br/>閉上眼，慢慢漂走吧</em></p>
 </blockquote>
 <p>像是藥效隨著血液的走動，輕柔的生效了，舒服得讓人感覺輕飄飄的，就算是歌詞是驚呼「Demerol，天啊，他正在打 Demerol」，唱起來也像是一種讚嘆，像是像是Demerol能把你這輩子所有肉身的苦痛，飄往冥河最遠端。</p>
 <p>很遺憾，只有肉身，而且它不持久。</p>
-<p>這些聲音在藥效退了以後，又是無止盡的腦中內耗與自我厭惡，震耳欲聾，用語更加的惡毒，但一次又一次，外人的聲音似乎越來越糊，他又在嗑嗎啡、連她也在嗑嗎啡，最終，只剩肉身坐在那裡，進入死循環。</p>
+<p>這些美聲在藥效退了以後，又是無止盡的腦中內耗與自我厭惡，震耳欲聾，用語更加的惡毒。</p>
+<p>一次又一次，外人的聲音似乎越來越糊，</p>
+<p>他又在嗑嗎啡、連她也在嗑嗎啡，最終，只剩肉身坐在那裡，進入死循環。</p>
 <blockquote>
 <p><em>You just sit around, </em><br/><em>just talkin’ nothin’ <br/>And takin’ morphine, </em><br/><em>hoo-hoo-hoo <br/>你只是坐在那裡，</em><br/><em>淨說些沒意義的話。 <br/>還一直在打嗎啡，</em><br/><em>hoo-hoo-hoo<br/><br/>Something’s goin’ down, baby, hoo <br/>有些事情正在失控啊，寶貝</em></p>
 </blockquote>
@@ -133,15 +136,16 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>又或者，當記者問起他的創作時，他會說歌曲不是他寫的，而是上帝透過網路傳遞給他的。這並不是在說謊，而更像是一種避重就輕的胡說八道。</p>
 <p>總是把真心埋在名為神、宇宙，埋在名為Diana、還有Billie底下，你不太知道他是真的受害，還是從中嚐到一點甜頭？麥可也並非不真誠，他會跟你真誠的說他的濟世心願，他會說他在徘徊在異國街頭，清冷且寂寞。</p>
 <p>但他不曾對《Morphine》發表任何看法，你卻很明白的感受到他出事了，如此坦白，讓人極度不安，作為歌迷，我們被他療癒、被他激勵，感受憤怒、脆弱或寂寞。</p>
-<p>但從沒有一刻是如此無所適從，找不到任何一種情緒能安放，因為麥可用很強烈、幾乎不給聽者反應空間的表達：</p>
-
+<p>但從沒有一刻是如此無所適從，找不到任何一種情緒能安放，因為麥可用很強烈、幾乎不給聽眾反應機會的力度表達：</p>
+<p></p>
 <p>他的全部，是毫無希望的，他與蘇西和嗎啡正在衝向無盡的黑暗。</p>
 <p><strong>他毫不保留的展示自身的不堪，這次，不問也不期待「你會愛我嗎？」</strong></p>
 <p>那個全世界都知道他極度缺愛的麥可，並不存在麥可的黑暗人格之中。</p>
 <p>又或著黑暗人格的麥可，悲觀地發現，他的缺愛已經沒有索求的來源了，只剩下止痛藥會對他說：</p>
-
-<p><strong>Trust in me</strong> </p>
-
+<p></p>
+<p style="font-size:1.5rem"><strong>Trust in me</strong> </p>
+<p></p>
+<div style="height:40px"></div>
 <h2>《Superfly Sister》、<br/>《Ghost》、<br/>《Is It Scary》</h2>
 <p>光前面兩首歌，就造成很強的情緒重擊，這30年來除了因為《Ghost》有電影作品而比較有討論外，多半我們也會聚焦在這兩首歌，剩下三首也蠻有趣的：</p>
 <p>《Superfly Sister》就是一種很輕，像是輕浮的對他人感情的各種碎念，如果我們都同意這是一張麥可黑暗人格的專輯，來聽這首歌就會很有趣。</p>
@@ -151,10 +155,10 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>不再只是「別誤解我」，也不是單純控訴媒體，而更像是一種疲憊後的反問：「如果你們真的覺得我是怪物，那又怎樣？」</p>
 <p>當我得知《麥可傑克森》電影中許多服飾，是來自Lady Gaga的數年來的真品蒐藏，無償提供給劇組使用，Gaga的對麥可的珍惜與現在自洽的藝術家模樣，這件事情讓我感覺美妙又有些許心酸。</p>
 <p>《The Fame Monster》超人氣怪獸時期的 Gaga，也帶著某種「快要燃燒過頭」的不安感。但最終，Gaga完成了怪獸時代的專輯與巡演，她的怪獸活下來了，從此開創她以藝術家身份的創作時代。</p>
-
+<p></p>
 <p>《Blood On The Dance Floor》專輯播畢，在即將發行30週年的此刻，</p>
 <p>我總想，曾經，麥可好像也快走到那一步。</p>
-
+<p></p>
 <h2>平行的 未來的未來</h2>
 <p>最後，感謝大家陪我從《血染舞池》這張專輯細小的裂縫之中，去想像一個麥可(或許)來不及完整的藝術人格，如此黑暗卻又充滿創造力。</p>
 <p>在如此深入挖掘後，我不同情、也不哀傷，就算《Morphine》如此痛得震耳欲聾，只添加了我對麥可的藝術靈魂更多崇敬。</p>
@@ -175,11 +179,12 @@ ogImage: "/images/botdf30/feature2.jpg"
 <li>如果會，麥可的黑暗型人格會長得更完整嗎？甚至血染舞池這個風格成為邁入40歲轉型的主軸呢？</li>
 </ul>
 <p>3.美國對麥可傑克森來說是什麼呢？</p>
-
+<div style="height:40px"></div>
 <p>(全文完)</p>
-
+<div style="height:40px"></div>
 <h2>附錄</h2>
 <details><summary>Blood on the Dance Floor 血染舞池歌詞 與 中文翻譯</summary>
+<div class="embed youtube"><iframe allowfullscreen="true" loading="lazy" src="https://www.youtube.com/embed/c3_NntYhzV4?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-tw&amp;autohide=2&amp;wmode=transparent"></iframe></div>
 <p>She got your number, ah</p>
 <p>She know your game, ah</p>
 <p>She put you under, ah</p>
@@ -299,6 +304,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>但我就是忍不住（那女孩也不會住手）</p>
 </details>
 <details><summary>Morphine 嗎啡 歌詞與中文翻譯</summary>
+<div class="embed spotify"><iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" loading="lazy" src="https://open.spotify.com/embed/track/5cyUiyJ9ZtQfnvFU2y31RC?utm_source=oembed" title="Spotify Embed: Morphine"></iframe></div>
 <p>He got flat, baby, kicked in the back, baby</p>
 <p>A heart attack, baby, I hate your father</p>
 <p>A hot fix, honey, he dug the ditch, baby</p>
@@ -482,21 +488,21 @@ ogImage: "/images/botdf30/feature2.jpg"
 <li>歷史定位：目前仍是史上銷量最高的混音專輯之一</li>
 </ul>
 <h3>專輯<strong>曲目</strong></h3>
-<ul>
-<li>| 1 | Blood on the Dance Floor</li>
-<li>| 2 | Morphine</li>
-<li>| 3 | Superfly Sister</li>
-<li>| 4 | Ghosts</li>
-<li>| 5 | Is It Scary</li>
-<li>| 6 | Scream Louder (Flyte Tyme Remix) </li>
-<li>| 7 | Money (Fire Island Radio Edit) </li>
-<li>| 8 | 2 Bad (Refugee Camp Mix) </li>
-<li>| 9 | Stranger in Moscow (Tee’s In-House Club Mix) </li>
-<li>| 10 | This Time Around (D.M. Radio Mix) </li>
-<li>| 11 | Earth Song (Hani’s Club Experience)</li>
-<li>| 12 | You Are Not Alone (Classic Club Mix)</li>
-<li>| 13 | HIStory (Tony Moran’s HIStory Lesson) </li>
-</ul>
+<ol>
+<li>Blood on the Dance Floor</li>
+<li>Morphine</li>
+<li>Superfly Sister</li>
+<li>Ghosts</li>
+<li>Is It Scary</li>
+<li>Scream Louder (Flyte Tyme Remix) </li>
+<li>Money (Fire Island Radio Edit) </li>
+<li>2 Bad (Refugee Camp Mix) </li>
+<li>Stranger in Moscow (Tee’s In-House Club Mix) </li>
+<li>This Time Around (D.M. Radio Mix) </li>
+<li>Earth Song (Hani’s Club Experience)</li>
+<li>You Are Not Alone (Classic Club Mix)</li>
+<li>HIStory (Tony Moran’s HIStory Lesson) </li>
+</ol>
 <h2>參考資料</h2>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Blood_on_the_Dance_Floor:_HIStory_in_the_Mix">https://en.wikipedia.org/wiki/Blood_on_the_Dance_Floor:_HIStory_in_the_Mix</a></li>

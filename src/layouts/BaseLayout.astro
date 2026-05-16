@@ -140,6 +140,12 @@ const imageURL = new URL(withBase(ogImage), Astro.site);
     color: var(--muted);
     font-size: 0.92rem;
   }
+  figure.img-narrow img {
+    max-width: 560px;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+  }
 
   @media (max-width: 640px) {
     main { padding-top: 1.2rem; }
