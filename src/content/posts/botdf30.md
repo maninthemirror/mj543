@@ -1,6 +1,6 @@
 ---
 title: "衝向無盡的黑暗｜麥可傑克森《Blood On The Dance Floor》血染舞池 發行30週年 - Michael Jackson小事考察委員會"
-description: "15年來，我沉溺在這張近乎邪典的專輯中，這篇文章，會從血染舞池深度考察與那些快被遺忘的MV版本開始，重新凝視1997的麥可在最封神的時期，卻偷偷長出黑暗的藝術家性格。"
+description: "15年來，我沉溺在這張近乎邪典的專輯中，這篇文章，會從血染舞池開始，深度考察那些快被遺忘的MV版本，重新凝視1997的麥可在最封神的時期，卻偷偷長出黑暗的藝術家性格。"
 pubDate: 2026-05-16
 updatedDate: 2026-05-16
 cover: "/images/botdf30/feature2.jpg"
