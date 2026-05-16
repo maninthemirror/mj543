@@ -91,7 +91,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>1998 年，麥可接受粉絲雜誌《Black and White》的採訪。他們問他為什麼血染舞池一半是混音而不是新歌。他說「因為SONY說那是粉絲想要的。他們說那是年輕人想聽的。」而採訪他的粉絲說：「呃，不，我們不喜歡混音，我們想要新歌。」據說麥可當時把拳頭舉向空中說：「我就知道。我就知道。」</p>
 <p>SONY的決定多少踩到自身麥可對作品要求的敏感神經，麥可當時夾在巡演、專輯製作以及大兒子即將出生的前夕，他展現了爆棚的創作能量完成了專輯，但或許血染舞池就是日後與SONY決裂的導火線之一吧。</p>
 <h2>《Morphine》嗎啡</h2>
-<div class="embed spotify"><iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" loading="lazy" src="https://open.spotify.com/embed/track/5cyUiyJ9ZtQfnvFU2y31RC" title="Spotify Embed: Morphine"></iframe></div>
+<div class="embed youtube"><iframe allowfullscreen="true" loading="lazy" src="https://www.youtube.com/embed/K_G5DLYRz6M?si=wIopZ6gogLiAXLR8?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-tw&amp;autohide=2&amp;wmode=transparent"></iframe></div>
 <p>麥可的御用音樂總監Brad Buxer 曾在訪談中透露：「當 Michael 進入他的黑暗模式，就像《Blood on the Dance Floor》時，那就是最棒的 Michael。」</p>
 <p>如果血染舞池呈現了黑暗又Alpha male的強大性感，那《Morphine》可能是愛上黑暗版麥可的粉絲，最愛又最不敢聽的一首歌。</p>
 <p>歌曲一開始的的尖銳雜音，幾乎讓人生理反胃，麥可告訴Brad Buxer，他要非常強烈、並且尖銳的聲音，完全不希望《Morphine》聽起來像《Heal the World》那樣豐富、華麗且飽滿。</p>
