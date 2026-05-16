@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { AUTHOR_NAME, SITE_DESCRIPTION, SITE_TITLE } from '../site.config';
 
 const posts = (await getCollection('posts', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime(),
@@ -12,13 +13,28 @@ const withBase = (value: string) => {
   const base = baseURL.endsWith('/') ? baseURL : `${baseURL}/`;
   return value.startsWith('/') ? `${base}${value.slice(1)}` : `${base}${value}`;
 };
+
+const siteURL = new URL(withBase('/'), Astro.site).toString();
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITE_TITLE,
+  description: SITE_DESCRIPTION,
+  url: siteURL,
+  inLanguage: 'zh-Hant',
+  publisher: {
+    '@type': 'Person',
+    name: AUTHOR_NAME,
+  },
+};
 ---
 
 <BaseLayout
-  title="Michael Jackson小事考察委員會"
-  description="長篇中文樂評與文化評論。"
-  ogImage="/og-default.jpg"
+  title={SITE_TITLE}
+  description={SITE_DESCRIPTION}
+  ogImage="/images/botdf30/feature2.jpg"
   ogType="website"
+  structuredData={structuredData}
 >
   <section>
     <h1>最新文章</h1>
@@ -35,6 +51,9 @@ const withBase = (value: string) => {
       );
     })}
   </section>
+  <footer class="home-footer">
+    <a href={withBase('/about/')}>About</a>
+  </footer>
 </BaseLayout>
 
 <style>
@@ -49,4 +68,10 @@ const withBase = (value: string) => {
   .card a { color: var(--text); text-decoration: none; }
   .card h2 { margin: 0.9rem 0 0.3rem; font-size: 1.2rem; }
   .card p { margin: 0; color: var(--muted); }
+  .home-footer {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    font-size: 0.95rem;
+  }
 </style>

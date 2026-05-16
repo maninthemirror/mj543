@@ -13,22 +13,22 @@ ogImage: "/images/botdf30/feature2.jpg"
 
 <p>1997年，麥可傑克森發行了《Blood on the Dance Floor》專輯(下稱血染舞池)，這是在歌迷之間近乎邪典的專輯，其中與專輯同名的歌曲，更是我在約15年前第一次聽到後就深深著迷。</p>
 <p>我喜歡那些全盛期的作品，但對於這首歌的感情是繞樑、反覆聆聽式的沉迷，我認為聽音樂是極度私人的事情，歌曲中的韻味跟化學效應，是一種需要鼓足勇氣才能向他人解釋的情緒，我很難在他人談論麥可時，說血染舞池的方方面面都讓我無法呼吸。</p>
-<figure><img alt="" height="894" src="/mj543/images/botdf30/cover-2.jpg" width="894"/><figcaption>《Blood on the Dance Floor》專輯封面</figcaption></figure>
+<figure><img alt="《Blood on the Dance Floor》專輯封面" height="894" src="/mj543/images/botdf30/cover-2.jpg" width="894"/><figcaption>《Blood on the Dance Floor》專輯封面</figcaption></figure>
 <p>不過隨著2026年電影《麥可傑克森》上映後，事情變得有趣了。</p>
 <p>至少在台灣網路，人們是聚焦在麥可的音樂所帶來的快樂，帶來了更多麥可的新歌迷。許多占星或玄學家喜歡說2026是一個業力清算的年份，許多事情都會得到公道的評價，千禧年前後，仇恨、獵奇與謠言，曾長時間遮蔽人們重新觀看他作品的視線。</p>
 <p>這些烏雲似乎快要被吹散了，他好像快要得到身為藝術家應有的待遇了，我也因此得到勇氣，在世人終於正眼看著他熠熠發光的成就時，從窩著的角落衝出來說：</p>
 <p>「嘿，我也想分享我的寶物《血染舞池》，這雖然有點冷門。」</p>
 <p>在這張專輯中，我們會看到沈沒於比夜色還深處的麥可，沒有光亮、充滿絕望，連在HIStory中強大憤怒都消失無蹤，可是它是製作於HIStory巡演中間的時期。</p>
-<figure><img alt="" height="707" src="/mj543/images/botdf30/p3-2.jpg" width="1024"/><figcaption>HIStory World Tour at the Olympic Stadium on July 4th 1997 in Munich, Germany. (Photo by Bernd Muller/Redferns)</figcaption></figure>
+<figure><img alt="HIStory World Tour at the Olympic Stadium on July 4th 1997 in Munich, Germany. (Photo by Bernd Muller/Redferns)" height="707" src="/mj543/images/botdf30/p3-2.jpg" width="1024"/><figcaption>HIStory World Tour at the Olympic Stadium on July 4th 1997 in Munich, Germany. (Photo by Bernd Muller/Redferns)</figcaption></figure>
 <p>這個時期的麥可，穿著閃亮的軍裝登台，演唱會所在地矗立著10公尺巨大雕像，在世人看來簡直封神的光榮時刻，但血染舞池，像是從雕像、或是閃亮的墨鏡鏡片的一道裂口。</p>
 <p>就讓我帶著愛意，為各位深度考察這張麥可傑克森最異色的專輯吧！</p>
 <h2>《Blood On The Dance Floor》血染舞池</h2>
 <h3>Blood On The Dance Floor歌名由來</h3>
 <p>1990 年 6 月泰迪·萊利(Teddy Riley)窩在錄音室裡，麥可新的製作人面試將近，他為了拼命的做一些demo，而缺席了好友的生日派對，但沒多久後，有人告訴他，派對舞池中有人遭到槍擊。他深受震撼。年僅 23 歲的他，暴力與死亡已成為他生命中反覆出現的主題。一年內，他的手足和最好的朋友也都相繼被殺。</p>
-<figure class="img-narrow"><img alt="" src="/mj543/images/botdf30/960px-90-27s_Block_Party_Tour.jpg"/><figcaption>Teddy Riley</figcaption></figure>
+<figure class="img-narrow"><img alt="Teddy Riley" src="/mj543/images/botdf30/960px-90-27s_Block_Party_Tour.jpg"/><figcaption>Teddy Riley</figcaption></figure>
 <p>萊利當晚製作的節奏音軌充滿攻擊性、陰沉且威脅感十足。但那時還沒有歌名、沒有歌詞，也沒有旋律。面試時，麥可仔細聽了萊利帶來的帶子，立刻愛上了這些音軌，使用了他以往不習慣的和弦，節奏新鮮且前衛，鼓點伴隨著速度擺動，像大錘一樣重擊人心。</p>
 <p>但萊利並沒有跟他說這段節奏的來由是什麼，幾週後，當他得知，麥可將歌名取名為《Blood on the Dance Floor》。萊利起了雞皮疙瘩。「他就像未卜先知一樣，感受到了其中的情緒。」在隨後的幾個月裡，兩人投入Dangerous專輯的製作中，不過麥可覺得血染舞池完成度不夠，所以並沒有收入在Dangerous專輯中。</p>
-<p style="font-size: 1.17em;line-height: 1.35;font-weight: bold;">我們從MV來細品這首歌吧</p>
+<h3>我們從MV來細品這首歌吧</h3>
 <h3>版本差異</h3>
 <p>《Blood on the Dance Floor》在串流上，你幾乎只能找到正規專輯中收錄的版本，其他的混音版本，則散落在當年英國、美國、歐洲發行的實體單曲中。</p>
 <p>MV部分，則有三個官方版本，以及一隻未獲發行，傳說中的8mm版本，整理同下：</p>
@@ -39,14 +39,13 @@ ogImage: "/images/botdf30/feature2.jpg"
 <li>專輯版：Youtube，2017結合太陽馬戲團表演的重製版本，在本文略過不表</li>
 <li>TM’s Switchblade Mix 版本：未發行的8mm版本</li>
 </ul>
-
 <h3>《Blood on the Dance Floor》專輯版MV</h3>
 <div class="embed youtube"><iframe allowfullscreen="true" loading="lazy" src="https://www.youtube.com/embed/c3_NntYhzV4?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-tw&amp;autohide=2&amp;wmode=transparent"></iframe></div>
 <p>專輯版本的MV是串流時代最多人看到的版本，也最符合歌詞的意境與發展的一個。麥可穿越舞池，像是講述著一件他觀察到的恐怖狀況：「有個叫做蘇西的女人，她懂玩，她很危險。」這在麥可作品中，是一種很少見的視角，在麥可的蛇蠍美人歌曲中，舉凡Billie Jean、Dirty Diana、Dangerous都是以第一人稱創作出發，他受害、他恐懼，而在血染舞池不是，讓麥可處於一個「道德高地」。他不是那個被殺的人，也不是那個殺人的人，他是那個告訴你「死期將至」的預言家：</p>
 <blockquote>
 <p><em><strong>Since you seduced her</strong> <br/>既然是你先勾引她的 <br/><strong>how does it feel</strong> <br/>感覺如何 <br/><strong>to know that woman is out to kill?</strong> <br/>知道那個女人是來取你性命的嗎？</em></p>
 </blockquote>
-<figure><img alt="" height="665" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-22.01.56.png" width="1024"/></figure>
+<figure><img alt="Blood on the Dance Floor MV 截圖" height="665" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-22.01.56.png" width="1024"/></figure>
 <p>好，他就是一個舞池中的盛竹如，不是過往蛇蠍美人歌曲中的倒霉男主角，而這種第三人稱角度出發的歌詞，曾出現在《Beat It》中，但Beat It是極其陽光與勸世的，他老氣橫秋的不希望有人受傷見血，然而血染舞池是站在一個全知視角去預見血流成河的結局的。</p>
 <blockquote>
 <p><em>And now, you’re going to get it <br/>現在，你就要大禍臨頭了 <br/>Ah, every hot man is out taking a chance <br/>每個男人都以為自己是幸運兒 <br/>It’s not about love and romance <br/>這不是什麼愛與羅曼史 <br/>And now, you do regret it <br/>現在，你確實後悔了</em></p>
@@ -59,42 +58,38 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>那些沈淪的舞蹈畫面，幾乎是女性歌迷票選最棒的畫面(姨母笑)，這樣帶著血的氣味、身著深紅色的西裝、招牌的長捲髮綁起了別緻的辮子，在與蘇西忘我的跳著莎莎舞時，辮子甩過肩膀，黑暗而危險⋯⋯又性感爆棚。</p>
 <p>的確我們有Billie Jean的甜美男孩時期、我們見過Remeber the Time的全民王子模樣，我們見過Scream如神般乾淨又性冷淡的面容，但請問這個紅衣男子⋯⋯你的道德在哪裡？良知在哪裡？ 地址又在哪裡？聯絡方式在哪裡？</p>
 <figure><img alt="Photo by Bill Nation/Sygma via Getty Images" loading="lazy" src="/mj543/images/botdf30/p2-2.jpg"/><figcaption>Photo by Bill Nation/Sygma via Getty Images</figcaption></figure>
-
-<figure><img alt=""  loading="lazy" src="/mj543/images/botdf30/p1-2.webp" class="img-narrow"/></figure>
+<figure><img alt="Blood on the Dance Floor 宣傳照" class="img-narrow" loading="lazy" src="/mj543/images/botdf30/p1-2.webp"/></figure>
 <p>明明過去的那些情歌在講愛，卻帶著羞澀、性別界線模糊，調情中卻能帶一絲禁慾的氣息的麥可，在血染舞池中不知所蹤，有個黑暗版的麥可，他說「It’s not about love and romance 這不是什麼愛與羅曼史」直接對我們內心最黑暗、最隱密的慾望說話。</p>
 <p>這是第一道我們從血染舞池的裂縫中，看到黑暗版的麥可，我們過去可能在一些表演瞬間、一些歌曲看到這種複雜性，我們嗅得出「他其實什麼都懂。」，但很快的，這個想法又會被那個陽光、輕聲細語又純情善良的彼得潘麥可蓋過。</p>
-
 <h3>Refugee Camp Mix 難民營混音版</h3>
 <div class="embed youtube"><iframe allowfullscreen="true" loading="lazy" src="https://www.youtube.com/embed/DhKlE-Fpdok?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-tw&amp;autohide=2&amp;wmode=transparent"></iframe></div>
 <p>(沒有網路的官方版，來看看粉絲修復版的吧)</p>
 <p>而這個難民營混音版的MV，則是介於8mm與專輯版之間，比較平衡的版本。比起專輯版本能配合歌詞做一點劇情推進，他更加的著重在舞蹈的呈現，畢竟專輯版都能把我們弄到停止呼吸了，心裡狂喊「想多看一點」的那段地板舞蹈，非常辣，在難民營混音版就能多窺見一些。</p>
-<figure><img alt="" height="665" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-22.02.33-1.png" width="1024"/></figure>
-<figure><img alt="" height="665" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-22.10.33.png" width="1024"/></figure>
+<figure><img alt="Blood on the Dance Floor MV 截圖" height="665" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-22.02.33-1.png" width="1024"/></figure>
+<figure><img alt="Blood on the Dance Floor MV 截圖" height="665" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-22.10.33.png" width="1024"/></figure>
 <p>在專輯版MV有些細節是斷裂的，例如沙鈴、折疊刀、刀子射向寫有Susie+Me的木板，當然歌迷會去猜測它們「代表什麼」，其實都很難去遮掩它們出現的很沒頭沒腦的事實。例如在專輯版MV中，開頭跟結尾，都是刀子射向寫有Susie+Me的木板，我根本搞不懂那要表達什麼，當然很多人都透過歌詞去說「這是麥可終究被蘇西捅刀的隱喻」</p>
 <p>難民營混音版的MV，把這些沒頭沒尾的隱喻處理得更流暢，例如開場是那張Susie+Me的塗鴉木板，MV最終，畫面隱約暗示「麥可在高速連續旋轉中，自己擲出刀子射向木板的」，這個做法比起我們去猜測麥可被殺了，更加充滿想像力，其實Susie+Me，倒頭來兩人會不會是同一種東西呢？</p>
-<figure><img alt="" height="665" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-22.11.22.png" width="1024"/></figure>
+<figure><img alt="Blood on the Dance Floor MV 截圖" height="665" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-22.11.22.png" width="1024"/></figure>
 <p>事實說來，這隻MV的整體場景並沒有跨越過時代，甚至發行時有些歌迷就覺得俗氣了，例如說哪家夜店長成這樣？</p>
 <p>但用2026的角度來看，我覺得全部把他歸成90s吧，那些90s的歐陸混音MV畫面大概都長這樣，有點低成本，但我真心喜歡的裡面帶有酷兒氣質的舞者們，讓MV中的異色感更重，要說麥可過去做的事情都會成為「王道」的標竿，那這個作品的問題就在於他太過異色。</p>
-
 <h3>TM’s Switchblade Mix 版本(未發行的8mm版本)</h3>
 <div class="embed youtube"><iframe allowfullscreen="true" loading="lazy" src="https://www.youtube.com/embed/GeTx0SaIF6Y?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-tw&amp;autohide=2&amp;wmode=transparent"></iframe></div>
 <p>這個被棄用的8mm拍攝版本，這是最最有趣的一個版本，導演表示：麥可本人喜歡這版本，但SONY不喜歡，拒絕發行。</p>
 <p>這是網路上流傳的版本，真偽不確定，但網路考古普遍相信是真，完全就是樂評說的「畫面粗糙、曝光過度，而且性感得要命」。</p>
-<figure><img alt="" height="424" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-22.25.07.jpg" width="600"/><figcaption>我愛這個場景，蘇西像是暗影一樣抱著麥可。</figcaption></figure>
+<figure><img alt="我愛這個場景，蘇西像是暗影一樣抱著麥可。" height="424" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-22.25.07.jpg" width="600"/><figcaption>我愛這個場景，蘇西像是暗影一樣抱著麥可。</figcaption></figure>
 <p>在上面兩個版本中，我們會聚焦蘇西這個明顯的角色，甚至有點劇情，例如蘇西拿刀最後會殺麥可嗎？但在8mm，完全沒有敘事，是一種強烈又直白的VIBE，派對跟慾望，你會覺得舞池的全員都是蘇西。</p>
 <p>凌亂的運鏡、更擁擠的舞群、更多的觸摸，畫面中麥可為慾望掙扎、勾引到被吞沒，慾望在畫面粗糙的粒子中卻是最清晰的氛圍，但沈浸其中麥可是不是也是蘇西呢？</p>
 <p>的確很多作品中麥可是性感的、為關係掙扎的，但從沒這樣在氣息中逐漸墮落、混亂。</p>
 <p>性感的要命，簡直把人逼瘋，這是1997年，這位男士難道就是歷史巡演中，穿著軍裝，雕像豎立那個偉大的男人嗎？</p>
-<figure><img alt="" height="529" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-23.39.31.png" width="1024"/><figcaption>兄弟，SONY一定是想要這個啊。</figcaption></figure>
+<figure><img alt="兄弟，SONY一定是想要這個啊。" height="529" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-23.39.31.png" width="1024"/><figcaption>兄弟，SONY一定是想要這個啊。</figcaption></figure>
 <p>這種黑暗與危險，SONY會瘋掉不意外，歷史巡演中間叫你弄個專輯出來，是這樣沒錯但不是這樣啊！</p>
 <p>2026年的我看完8mm版本整個人都回不去，這個放出去，要怎麼讓觀眾靜下心(?)看歷史巡演啊。</p>
 <p>這張專輯在麥可發行的歷史中，長在一個很奇怪的時間點，起因是因為HIStory巡演第一階段結束，第二階段的巡演將在歐洲開跑，SONY想要做點什麼為歐洲眾多場次造勢。</p>
 <p>原本麥可的想法是做成迷你專輯，SONY則想加碼，加入HIStory混音成一個專輯。最終專輯全名叫做《Blood on the Dance Floor: HIStory in the Mix》，前半是5首新歌，後半是8首混音，跟HIStory和Invincible不知節制的收歌不同，硬是斷成兩截。</p>
 <p>1998 年，麥可接受粉絲雜誌《Black and White》的採訪。他們問他為什麼血染舞池一半是混音而不是新歌。他說「因為SONY說那是粉絲想要的。他們說那是年輕人想聽的。」而採訪他的粉絲說：「呃，不，我們不喜歡混音，我們想要新歌。」據說麥可當時把拳頭舉向空中說：「我就知道。我就知道。」</p>
 <p>SONY的決定多少踩到自身麥可對作品要求的敏感神經，麥可當時夾在巡演、專輯製作以及大兒子即將出生的前夕，他展現了爆棚的創作能量完成了專輯，但或許血染舞池就是日後與SONY決裂的導火線之一吧。</p>
-
 <h2>《Morphine》嗎啡</h2>
-<div class="embed spotify"><iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" loading="lazy" src="https://open.spotify.com/embed/track/5cyUiyJ9ZtQfnvFU2y31RC?utm_source=oembed" title="Spotify Embed: Morphine"></iframe></div>
+<div class="embed spotify"><iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" loading="lazy" src="https://open.spotify.com/embed/track/5cyUiyJ9ZtQfnvFU2y31RC" title="Spotify Embed: Morphine"></iframe></div>
 <p>麥可的御用音樂總監Brad Buxer 曾在訪談中透露：「當 Michael 進入他的黑暗模式，就像《Blood on the Dance Floor》時，那就是最棒的 Michael。」</p>
 <p>如果血染舞池呈現了黑暗又Alpha male的強大性感，那《Morphine》可能是愛上黑暗版麥可的粉絲，最愛又最不敢聽的一首歌。</p>
 <p>歌曲一開始的的尖銳雜音，幾乎讓人生理反胃，麥可告訴Brad Buxer，他要非常強烈、並且尖銳的聲音，完全不希望《Morphine》聽起來像《Heal the World》那樣豐富、華麗且飽滿。</p>
@@ -303,7 +298,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>但我就是忍不住（那女孩也不會住手）</p>
 </details>
 <details><summary>Morphine 嗎啡 歌詞與中文翻譯</summary>
-<div class="embed spotify"><iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" loading="lazy" src="https://open.spotify.com/embed/track/5cyUiyJ9ZtQfnvFU2y31RC?utm_source=oembed" title="Spotify Embed: Morphine"></iframe></div>
+<div class="embed spotify"><iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" loading="lazy" src="https://open.spotify.com/embed/track/5cyUiyJ9ZtQfnvFU2y31RC" title="Spotify Embed: Morphine"></iframe></div>
 <p>He got flat, baby, kicked in the back, baby</p>
 <p>A heart attack, baby, I hate your father</p>
 <p>A hot fix, honey, he dug the ditch, baby</p>
@@ -323,11 +318,9 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>Trust in me, trust in me</p>
 <p>Put all your trust in me</p>
 <p>You’re doin’ morphine, hoo!</p>
-
 <p>相信我，相信我</p>
 <p>把你所有信任交給我</p>
 <p>你正在嗑嗎啡，hoo！</p>
-
 <p>“You heard what the doctor said"</p>
 <p>“First conclude—"</p>
 <p>“I take it—"</p>
@@ -340,7 +333,6 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>「這是一種——」</p>
 <p>「你的精神已經——」</p>
 <p>「哈哈哈」</p>
-
 <p>He got a place, baby, kicked in the face, baby</p>
 <p>He hate your race, baby, you’re not the liar</p>
 <p>You’re every lick, baby, your dog’s a bitch, baby</p>
@@ -357,7 +349,6 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>我得繼續工作，寶貝，而你只是個對手</p>
 <p>刀片劃過，老兄，沿著你的腿往上割</p>
 <p>你在暗地裡嘲諷，老兄，真令人厭惡</p>
-
 <p>Trust in me, trust in me</p>
 <p>Put all your trust in me</p>
 <p>You’re doin’ morphine, hoo!</p>
@@ -366,7 +357,6 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>把所有信任交給我</p>
 <p>你正在嗑嗎啡</p>
 <p>繼續啊，寶貝</p>
-
 <p>Relax, this won’t hurt you</p>
 <p>Before I put it in</p>
 <p>Close your eyes and count to ten</p>
@@ -379,7 +369,6 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>別哭，我不會改變你</p>
 <p>沒必要害怕</p>
 <p>閉上眼，慢慢漂走吧</p>
-
 <p>Demerol, Demerol</p>
 <p>Oh God, he’s taking Demerol</p>
 <p>Demerol, Demerol</p>
@@ -388,7 +377,6 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>天啊，他正在打 Demerol</p>
 <p>Demerol，Demerol</p>
 <p>天啊，他又在打 Demerol</p>
-
 <p>He’s tryin’ hard to convince her</p>
 <p>To give more of what he had</p>
 <p>Today, he wants it twice as bad</p>
@@ -401,7 +389,6 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>別哭，我不會怪你</p>
 <p>昨天，你還擁有他的信任</p>
 <p>今天，他卻用了雙倍劑量</p>
-
 <p>Demerol, Demerol</p>
 <p>Oh, God, he’s taking Demerol, hee-hee</p>
 <p>Demerol, Demerol</p>
@@ -412,7 +399,6 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>Demerol，Demerol</p>
 <p>老天，他終於拿到他的 Demerol</p>
 <p>hee-hee，hoo，ooh！</p>
-
 <p>“You heard what the doctor said"</p>
 <p>“First conclude—"</p>
 <p>“I take it—"</p>
@@ -423,7 +409,6 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>「我認為——」</p>
 <p>「這是一種——」</p>
 <p>「你的精神已經——」</p>
-
 <p>He got shit, baby, your dog’s a bitch, baby</p>
 <p>You make me sick, baby, you are a liar</p>
 <p>Is truth a game, daddy? Deep in the vein, baby</p>
@@ -434,14 +419,12 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>藥物深深打進血管裡，寶貝</p>
 <p>你被稱作聖人，寶貝</p>
 <p>大家都如此愛戴你</p>
-
 <p>Trust in me, trust in me</p>
 <p>Put all your trust in me</p>
 <p>She doin’ morphine, hoo!</p>
 <p>相信我，相信我</p>
 <p>把你所有信任交給我</p>
 <p>她正在嗑嗎啡，hoo！</p>
-
 <p>You just sit around, just talkin’ of it</p>
 <p>You’re takin’ morphine, hoo! Go on, baby</p>
 <p>You just sit around, just talkin’ about it</p>
@@ -472,10 +455,9 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>hoo，hoo，嗎啡</p>
 <p>繼續吧，繼續沉迷嗎啡</p>
 <p>嗎啡、嗎啡</p>
-
 </details>
-<h3><storng>《Blood On The Dance Floor》專輯封面誕生故事</strong></h3>
-<figure><img alt="" height="894" src="/mj543/images/botdf30/cover-2.jpg" width="894"/><figcaption>《Blood on the Dance Floor》專輯封面</figcaption></figure>
+<h3><strong>《Blood On The Dance Floor》專輯封面誕生故事</strong></h3>
+<figure><img alt="《Blood on the Dance Floor》專輯封面" height="894" src="/mj543/images/botdf30/cover-2.jpg" width="894"/><figcaption>《Blood on the Dance Floor》專輯封面</figcaption></figure>
 <p>這張專輯的封面非常特別，麥可穿著與MV相同的紅色西裝，在一個半透明的舞池裡跳舞，背景則是充滿科幻感的城市夜空。超現實並充滿神秘感的呈現，多年流傳著各種瘋狂的陰謀論，有人說這代表麥可在反抗光明會、有人說這預言了 9/11 恐怖攻擊，甚至還有人扯到血祭。</p>
 <p>2012年，作家Pez Jax 特別採訪了封面作者威爾·威爾森（Will Wilson），帶大家回到當年的創作現場。</p>
 <p>在所有封面拍攝計劃都趕不上後，決定改用繪製的，剛好麥可之前就很欣賞威爾森的畫作，於是這個重責大任就落到了威爾身上，而且只給短短的三個星期。</p>
@@ -520,7 +502,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <ul class="references">
 <li><a href="https://en.wikipedia.org/wiki/Blood_on_the_Dance_Floor:_HIStory_in_the_Mix">Blood on the Dance Floor: HIStory in the Mix - Wikipedia</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Blood_on_the_Dance_Floor_(song)">Blood on the Dance Floor (song) - Wikipedia</a></li>
-<li><a href="https://www.theatlantic.com/entertainment/archive/2012/03/michael-jacksons-blood-on-the-dance-floor-15-years-later/254877/?utm_source=chatgpt.com">Michael Jackson’s ‘Blood on the Dance Floor,’ 15 Years Later By Joseph Vogel</a></li>
+<li><a href="https://www.theatlantic.com/entertainment/archive/2012/03/michael-jacksons-blood-on-the-dance-floor-15-years-later/254877/">Michael Jackson’s ‘Blood on the Dance Floor,’ 15 Years Later By Joseph Vogel</a></li>
 <li><a href="https://www.themjcast.com/episode-016-jermaine-jackson-is-the-lord-of-the-rings/">THE MJ Cast | Episode 016 – Jermaine Jackson is the Lord of the Rings</a></li>
 <li><a href="https://www.themjcast.com/episode-034-june-25th-special-feat-kevin-stea/">The MJCast | Episode 034 – June 25th Special feat. Kevin Stea</a></li>
 <li><a href="https://www.themjcast.com/139-invincible-20-roundtable/">The MJCast | Episode 139: Invincible 20 Roundtable</a></li>
@@ -528,13 +510,12 @@ ogImage: "/images/botdf30/feature2.jpg"
 <li><a href="https://www.themjcast.com/episode-043-thriller-night-special-feat-cj-devillar/">The MJCast | Episode 043 – Thriller Night Special feat. CJ DeVillar</a></li>
 <li><a href="https://www.themjcast.com/episode-069-c-qa/">The MJCast | 069: C Q&amp;A</a></li>
 <li><a href="https://lucascava.medium.com/michael-jacksons-history-an-essay-7d26985524c7">Michael Jackson’s HIStory: An Essay. | by J | Medium</a></li>
-<li><a href="https://kerryhennigan.wordpress.com/2016/06/30/what-is-it-about-blood-on-the-dance-floor-or-michael-jackson-as-alpha-male/?utm_source=chatgpt.com">What is it about ‘Blood on the Dance Floor’ or: Michael Jackson as alpha male – Kerry Hennigan</a></li>
+<li><a href="https://kerryhennigan.wordpress.com/2016/06/30/what-is-it-about-blood-on-the-dance-floor-or-michael-jackson-as-alpha-male/">What is it about ‘Blood on the Dance Floor’ or: Michael Jackson as alpha male – Kerry Hennigan</a></li>
 <li><a href="https://onyourmarkus.au/moonwalking-into-the-shadows-revisiting-michael-jacksons-blood-on-the-dance-floor">Moonwalking into the Shadows: Revisiting Michael Jackson’s Blood on the Dance Floor</a></li>
-<li><a href="https://popshifter.com/2013-08-19/why-morphine-is-michael-jacksons-most-personal-song/?utm_source=chatgpt.com">Why “Morphine” Is Michael Jackson’s Most Personal Song By Paul Casey</a></li>
+<li><a href="https://popshifter.com/2013-08-19/why-morphine-is-michael-jacksons-most-personal-song/">Why “Morphine” Is Michael Jackson’s Most Personal Song By Paul Casey</a></li>
 <li><a href="https://michaeljacksonstudies.org/femmes-fatale-the-dangerous-woman-narrative/">Femmes Fatale – The ‘Dangerous Woman’ Narrative | The Journal of Michael Jackson Academic Studies | ISSN: 2452-049</a></li>
 <li><a href="https://www.pezjax.com/bringing-blood-on-the-dance-floor-to-life/">Bringing Blood On The Dance Floor to Life
 </a></li>
 </ul>
-
 <h2>作者</h2>
-<p>Effy，台灣人，小眾興趣專家，盡喜歡一些找不到太多同好的東西。川崎前鋒球迷，有一個比較認真的網站「<a href="https://nangokufro.tw/" rel="noopener" target="_blank">南國FRO</a>」，還有幾個沒什麼人看的運動專欄。</p>
+<p>Effy，台灣人，在MJ回天堂後沒多久入坑。小眾興趣專家，老是被找不到同好的冷門東西煞到。川崎前鋒球迷，經營網站「<a href="https://nangokufro.tw/" rel="noopener" target="_blank">南國FRO</a>」，還有幾個沒什麼人看的運動專欄。</p>

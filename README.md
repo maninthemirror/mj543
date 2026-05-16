@@ -6,6 +6,8 @@ Astro + Markdown 的 GitHub Pages 長文網站。
 
 - Repository：`mj543`（放在 `maninthemirror` 帳號下）
 - 站點網址：`https://maninthemirror.github.io/mj543/`
+- Sitemap：`https://maninthemirror.github.io/mj543/sitemap.xml`
+- Robots：`https://maninthemirror.github.io/mj543/robots.txt`
 
 ## 本機開發
 
@@ -38,6 +40,12 @@ ogImage: "/images/xxx.jpg"
 3. 檔名會對應網址：
 - `src/content/posts/botdf30.md` -> `/botdf30/`
 4. `title` 是文內標題（h1），`seoTitle`（可選）只用於 `<title>` 與 OG/Twitter 標題。
+
+## SEO / AIO
+
+- 已內建 `WebSite` / `Article` / `Person` JSON-LD。
+- `robots.txt` 允許爬蟲並指向 sitemap。
+- sitemap 會自動列出首頁、`/about/` 與所有非草稿文章。
 
 ## Notion 轉換建議
 

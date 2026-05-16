@@ -1,9 +1,12 @@
 ---
+import { SITE_TITLE } from '../site.config';
+
 interface Props {
   title: string;
   description: string;
   ogImage?: string;
   ogType?: 'website' | 'article';
+  structuredData?: Record<string, unknown> | Record<string, unknown>[];
 }
 
 const {
@@ -11,6 +14,7 @@ const {
   description,
   ogImage = '/og-default.jpg',
   ogType = 'website',
+  structuredData,
 } = Astro.props;
 
 const baseURL = import.meta.env.BASE_URL;
@@ -22,6 +26,11 @@ const withBase = (value: string) => {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const imageURL = new URL(withBase(ogImage), Astro.site);
+const structuredDataList = structuredData
+  ? Array.isArray(structuredData)
+    ? structuredData
+    : [structuredData]
+  : [];
 ---
 
 <!doctype html>
@@ -35,6 +44,7 @@ const imageURL = new URL(withBase(ogImage), Astro.site);
     <meta property="og:image" content={imageURL.toString()} />
     <meta property="og:type" content={ogType} />
     <meta property="og:url" content={canonicalURL.toString()} />
+    <meta property="og:site_name" content={SITE_TITLE} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
@@ -42,11 +52,14 @@ const imageURL = new URL(withBase(ogImage), Astro.site);
     <link rel="icon" type="image/svg+xml" href={withBase('/favicon.svg')} />
     <link rel="icon" href={withBase('/favicon.ico')} />
     <link rel="canonical" href={canonicalURL.toString()} />
+    {structuredDataList.map((item) => (
+      <script type="application/ld+json" set:html={JSON.stringify(item)} />
+    ))}
     <title>{title}</title>
   </head>
   <body>
     <header class="site-header">
-      <a href={withBase('/')} class="brand">Michael Jackson小事考察委員會</a>
+      <a href={withBase('/')} class="brand">{SITE_TITLE}</a>
     </header>
     <main>
       <slot />
@@ -61,6 +74,9 @@ const imageURL = new URL(withBase(ogImage), Astro.site);
     --text: #1c1c1c;
     --muted: #666;
     --border: #e5e2db;
+    --link: #8a1c34;
+    --link-hover: #5e1224;
+    --link-visited: #6b2f56;
     --max-width: 760px;
   }
 
@@ -114,6 +130,21 @@ const imageURL = new URL(withBase(ogImage), Astro.site);
     color: #3c3a37;
   }
   article ul, article ol { padding-left: 1.4rem; }
+
+  a {
+    color: var(--link);
+    text-decoration-color: color-mix(in srgb, var(--link) 55%, transparent);
+    text-underline-offset: 0.13em;
+  }
+
+  a:hover {
+    color: var(--link-hover);
+    text-decoration-color: var(--link-hover);
+  }
+
+  a:visited {
+    color: var(--link-visited);
+  }
 
   .embed {
     position: relative;

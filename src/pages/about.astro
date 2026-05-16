@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { AUTHOR_BIO, AUTHOR_NAME, SITE_DESCRIPTION, SITE_TITLE } from '../site.config';
+
+const baseURL = import.meta.env.BASE_URL;
+const withBase = (value: string) => {
+  if (/^https?:\/\//.test(value)) return value;
+  const base = baseURL.endsWith('/') ? baseURL : `${baseURL}/`;
+  return value.startsWith('/') ? `${base}${value.slice(1)}` : `${base}${value}`;
+};
+
+const aboutURL = new URL(withBase('/about/'), Astro.site).toString();
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: AUTHOR_NAME,
+  description: AUTHOR_BIO,
+  url: aboutURL,
+};
+---
+
+<BaseLayout
+  title={`關於作者 - ${SITE_TITLE}`}
+  description={SITE_DESCRIPTION}
+  ogImage="/images/botdf30/feature2.jpg"
+  ogType="website"
+  structuredData={structuredData}
+>
+  <article>
+    <h1>關於作者</h1>
+    <p>{AUTHOR_BIO}</p>
+    <p>
+      外部網站：
+      <a href="https://nangokufro.tw/">南國FRO</a>
+    </p>
+  </article>
+</BaseLayout>
+
