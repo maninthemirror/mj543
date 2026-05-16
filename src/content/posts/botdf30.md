@@ -300,7 +300,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>但我就是忍不住（那女孩也不會住手）</p>
 </details>
 <details><summary>Morphine 嗎啡 歌詞與中文翻譯</summary>
-<div class="embed spotify"><iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" loading="lazy" src="https://open.spotify.com/embed/track/5cyUiyJ9ZtQfnvFU2y31RC" title="Spotify Embed: Morphine"></iframe></div>
+<div class="embed youtube"><iframe allowfullscreen="true" loading="lazy" src="https://www.youtube.com/embed/K_G5DLYRz6M?si=wIopZ6gogLiAXLR8?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-tw&amp;autohide=2&amp;wmode=transparent"></iframe></div>
 <p>He got flat, baby, kicked in the back, baby</p>
 <p>A heart attack, baby, I hate your father</p>
 <p>A hot fix, honey, he dug the ditch, baby</p>
