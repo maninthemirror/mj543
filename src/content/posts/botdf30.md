@@ -78,7 +78,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>那些沈淪的舞蹈畫面，幾乎是女性歌迷票選最棒的畫面(姨母笑)，這樣帶著血的氣味、身著深紅色的西裝、招牌的長捲髮綁起了別緻的辮子，在與蘇西忘我的跳著莎莎舞時，辮子甩過肩膀，黑暗而危險⋯⋯又性感爆棚。</p>
 <p>的確我們有Billie Jean的甜美男孩時期、我們見過Remeber the Time的全民王子模樣，我們見過Scream如神般乾淨又性冷淡的面容，但請問這個紅衣男子⋯⋯你的道德在哪裡？良知在哪裡？ 地址又在哪裡？聯絡方式在哪裡？</p>
 <figure><img alt="Photo by Bill Nation/Sygma via Getty Images" loading="lazy" src="/mj543/images/botdf30/p2-2.jpg"/><figcaption>Photo by Bill Nation/Sygma via Getty Images</figcaption></figure>
-<figure><img alt="Blood on the Dance Floor 宣傳照" class="img-narrow" loading="lazy" src="/mj543/images/botdf30/p1-2.webp"/></figure>
+<figure class="img-narrow"><img alt="Blood on the Dance Floor 宣傳照" class="img-narrow" loading="lazy" src="/mj543/images/botdf30/p1-2.webp"/></figure>
 <p>明明過去的那些情歌在講愛，卻帶著羞澀、性別界線模糊，調情中卻能帶一絲禁慾的氣息的麥可，在血染舞池中不知所蹤，有個黑暗版的麥可，他說「It’s not about love and romance 這不是什麼愛與羅曼史」直接對我們內心最黑暗、最隱密的慾望說話。</p>
 <p>這是第一道我們從血染舞池的裂縫中，看到黑暗版的麥可，我們過去可能在一些表演瞬間、一些歌曲看到這種複雜性，我們嗅得出「他其實什麼都懂。」，但很快的，這個想法又會被那個陽光、輕聲細語又純情善良的彼得潘麥可蓋過。</p>
 <h3>《Blood On The Dance Floor》Refugee Camp Mix 難民營混音版</h3>
@@ -96,7 +96,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <div class="embed youtube"><iframe allowfullscreen="true" loading="lazy" src="https://www.youtube.com/embed/GeTx0SaIF6Y?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-tw&amp;autohide=2&amp;wmode=transparent"></iframe></div>
 <p>這個被棄用的8mm拍攝版本，是最、最、最有趣的一個版本，導演表示：麥可本人喜歡這版本，但SONY不喜歡，拒絕發行。</p>
 <p>這是網路上流傳的版本，真偽不確定，但網路考古普遍相信是真，完全就是樂評說的「畫面粗糙、曝光過度，而且性感得要命」。</p>
-<figure><img alt="我愛這個場景，蘇西像是暗影一樣抱著麥可。" height="424" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-22.25.07.jpg" width="600"/><figcaption>我愛這個場景，蘇西像是暗影一樣抱著麥可。</figcaption></figure>
+<figure class="img-narrow"><img alt="我愛這個場景，蘇西像是暗影一樣抱著麥可。" height="424" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-22.25.07.jpg" width="600"/><figcaption>我愛這個場景，蘇西像是暗影一樣抱著麥可。</figcaption></figure>
 <p>在上面兩個版本中，我們會聚焦蘇西這個明顯的角色，甚至有點劇情，例如蘇西拿刀最後會殺麥可嗎？但在8mm，完全沒有敘事，是一種強烈又直白的VIBE，派對跟慾望，你會覺得舞池的全員都是蘇西。</p>
 <p>凌亂的運鏡、更擁擠的舞群、更多的觸摸，畫面中麥可為慾望載浮載沉、被勾引到被吞沒，慾望在畫面粗糙的粒子中，卻是最清晰的氛圍，沈浸其中麥可是不是也是蘇西呢？</p>
 <p>的確很多作品中麥可是性感的、為關係掙扎的，但從沒這樣在吐息中逐漸墮落、混亂。</p>
@@ -481,6 +481,22 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>嗎啡、嗎啡</p>
 <p class="details-close-wrap"><button type="button" class="details-close">收合</button></p>
 </details>
+<h3><strong>《Blood On The Dance Floor》製作故事、台灣發行的歌迷回憶</strong></h3>
+<p><b>製作故事：</b></p>
+<ol>
+<li>其實，泰迪·萊利(Teddy Riley)在1990做的血染舞池Demo早就壞掉了，現在聽到的版本是97年布萊德·巴克瑟（Brad Buxer）在專輯製作時重製的</li>
+<li>雖然《Morphine》極度黑暗，不過錄製的當下，麥可的狀況一切正常的工作著，讓Brad沒有想得太多，只覺得這個題材很特殊，那句有力的「Morphine！」還是他們團隊的四個男人在錄音室高唱的結果。</li>
+<li>另一個Brad(Brad Sundberg，技術總監)，則說過，不過對於在麥可錄主唱(Lead Vocal)都非常專心，而且情緒只存在麥克風前，例如說在錄《D.S》時，可以感覺麥可超怒，但一出錄音室，他就問大家說「午餐要吃什麼？」</li>
+<li>麥可的第一任妻子Lisa，很常到錄音室跟大家玩，但幾個常駐錄音室的幾個班底，還是看報紙才知道他們結婚了⋯⋯他們也同時意識到，麥可的人生很龐大，錄音室團隊只是他人生中的「其中一部分」。</li>
+</ol>
+
+<p><b>台灣發行的歌迷回憶，赤色風暴？血染舞池？：</b></p>
+<p>這是在脆上的討論中，歌迷<a href="https://www.threads.com/@linpharrell/post/DYbuAb-lEFs?xmt=AQG0bCaql_Vuui5VF0kMx3lhIJ0ANm1Hixdf-t92aOobcg" target="_blank">linpharrell</a>分享的當年台壓版發行送的海報</p>
+<figure class="img-narrow"><img alt="來源" height="424" loading="lazy" src="/mj543/images/botdf30/botdf_tw_poster.webp" width="600"/><figcaption>來源：<a href="https://www.threads.com/@linpharrell/post/DYbuAb-lEFs?xmt=AQG0bCaql_Vuui5VF0kMx3lhIJ0ANm1Hixdf-t92aOobcg" target="_blank">linpharrell</a></figcaption></figure>
+<p>至於台壓版為什麼會翻譯成「赤色風暴」，歌迷<a href="https://www.threads.com/@iamtimlin/post/DYZty0QknCi?xmt=AQG0bCaql_Vuui5VF0kMx3lhIJ0ANm1Hixdf-t92aOobcg" target="_blank">iamtimlin1</a>則回憶：「當年民風超保守，中午吃飯看電視三台的新聞在報這張專輯名稱『悚動』，隔週看報紙說定案譯名叫"赤色風暴"。然後連7-11都有進貨，我住鄉下沒唱片行騎單車去買😂」</p>
+<p>只是「赤色風暴」這個譯名，也似乎被時間的洪流捲走了。</p>
+
+
 <h3><strong>《Blood On The Dance Floor》專輯封面誕生故事</strong></h3>
 <figure><img alt="《Blood on the Dance Floor》專輯封面" height="894" src="/mj543/images/botdf30/cover-2.jpg" width="894"/><figcaption>《Blood on the Dance Floor》專輯封面</figcaption></figure>
 <p>這張專輯的封面非常特別，麥可穿著與MV相同的紅色西裝，在一個半透明的舞池裡跳舞，背景則是充滿科幻感的城市夜空。超現實並充滿神秘感的呈現，多年流傳著各種瘋狂的陰謀論，有人說這代表麥可在反抗光明會、有人說這預言了 9/11 恐怖攻擊，甚至還有人扯到血祭。</p>
