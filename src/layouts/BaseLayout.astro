@@ -64,6 +64,34 @@ const structuredDataList = structuredData
     <main>
       <slot />
     </main>
+    <button id="back-to-top" class="back-to-top" type="button" aria-label="回到最上方">↑</button>
+    <script>
+      const btn = document.getElementById('back-to-top');
+      if (btn) {
+        const toggle = () => {
+          const show = window.scrollY > 420;
+          btn.classList.toggle('is-visible', show);
+        };
+        window.addEventListener('scroll', toggle, { passive: true });
+        toggle();
+        btn.addEventListener('click', () => {
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+      }
+
+      document.addEventListener('click', (event) => {
+        const target = event.target;
+        if (!(target instanceof HTMLElement)) return;
+        if (!target.classList.contains('details-close')) return;
+        const details = target.closest('details');
+        if (!details) return;
+        details.open = false;
+        const header = document.querySelector('.site-header');
+        const headerHeight = header instanceof HTMLElement ? header.offsetHeight : 0;
+        const top = window.scrollY + details.getBoundingClientRect().top - headerHeight - 50;
+        window.scrollTo({ top, behavior: 'smooth' });
+      });
+    </script>
   </body>
 </html>
 
@@ -119,9 +147,13 @@ const structuredDataList = structuredData
   img { max-width: 100%; height: auto; border-radius: 10px; }
 
   article p { margin: 1.1rem 0; }
+  article h1{
+    font-size : 1.6rem;
+  }
   article h1, article h2, article h3, article h4, article h5, article h6 {
-    line-height: 1.35;
-    margin: 2rem 0 0.9rem;
+    line-height: 1.6;
+    margin: 0 0 0.9rem;
+    scroll-margin-top: 8.4rem;
   }
   article blockquote {
     margin: 1.4rem 0;
@@ -195,8 +227,84 @@ const structuredDataList = structuredData
     display: block;
   }
 
+  article h2 + h3 {
+    margin-top: 0.9rem;
+  }
+
+  article details {
+    margin: 0.35rem 0 1.4rem;
+    border-left: 2px solid var(--border);
+    padding-left: 0.8rem;
+  }
+
+  article details > summary {
+    cursor: pointer;
+    color: #555;
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin: 0.2rem 0 0rem;
+  }
+
+  .details-close-wrap {
+    margin: 1rem 0 0.2rem;
+  }
+
+  .details-close {
+    border: 1px solid var(--border);
+    background: #fff;
+    color: #444;
+    border-radius: 999px;
+    padding: 0.2rem 0.7rem;
+    font-size: 0.85rem;
+    cursor: pointer;
+  }
+
+  .details-close:hover {
+    color: #111;
+  }
+
+  .back-to-top {
+    position: fixed;
+    right: 1.1rem;
+    bottom: 1.1rem;
+    width: 2.4rem;
+    height: 2.4rem;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    background: #fff;
+    color: #444;
+    font-size: 1.05rem;
+    line-height: 1;
+    cursor: pointer;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+    opacity: 0;
+    transform: translateY(8px);
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease, color 0.2s ease;
+    z-index: 1100;
+  }
+
+  .back-to-top.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+  }
+
+  .back-to-top:hover {
+    color: #111;
+  }
+
   @media (max-width: 640px) {
     main { padding-top: 1.2rem; }
     body { line-height: 1.8; }
+    article h1, article h2, article h3, article h4, article h5, article h6 {
+      scroll-margin-top: 7rem;
+    }
+    .back-to-top {
+      right: 0.9rem;
+      bottom: 0.9rem;
+      width: 2.2rem;
+      height: 2.2rem;
+    }
   }
 </style>

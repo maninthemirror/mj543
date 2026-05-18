@@ -23,22 +23,40 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>這個時期的麥可，穿著閃亮的軍裝登台，演唱會所在地矗立著10公尺巨大雕像，在世人看來簡直封神的光榮時刻，但血染舞池，像是從雕像、或是閃亮的墨鏡鏡片的一道裂口。</p>
 <p>就讓我帶著愛意，為各位深度考察這張麥可傑克森最異色的專輯吧！</p>
 <h2>《Blood On The Dance Floor》血染舞池</h2>
-<h3>Blood On The Dance Floor歌名由來</h3>
+<h3>《Blood On The Dance Floor》歌名由來</h3>
 <p>1990 年 6 月泰迪·萊利(Teddy Riley)窩在錄音室裡，麥可新的製作人面試將近，他為了拼命的做一些demo，而缺席了好友的生日派對，但沒多久後，有人告訴他，派對舞池中有人遭到槍擊。他深受震撼。年僅 23 歲的他，暴力與死亡已成為他生命中反覆出現的主題。一年內，他的手足和最好的朋友也都相繼被殺。</p>
 <figure class="img-narrow"><img alt="Teddy Riley" src="/mj543/images/botdf30/960px-90-27s_Block_Party_Tour.jpg"/><figcaption>Teddy Riley</figcaption></figure>
 <p>萊利當晚製作的節奏音軌充滿攻擊性、陰沉且威脅感十足。但那時還沒有歌名、沒有歌詞，也沒有旋律。面試時，麥可仔細聽了萊利帶來的帶子，立刻愛上了這些不尋常的和弦，節奏新鮮且前衛，鼓點伴隨著速度擺動，像大錘一樣重擊人心。</p>
 <p>但萊利並沒有跟他說這段節奏的來由是什麼，幾週後，當知道麥可將歌名取名為《Blood on the Dance Floor》。</p>
 <p>萊利起了雞皮疙瘩：「他就像未卜先知一樣，感受到了其中的情緒。」在隨後的幾個月裡，兩人投入《Dangerous》專輯的製作中，不過麥可覺得血染舞池完成度不夠，所以並沒有收入在《Dangerous》專輯中。</p>
 <h3>我們從MV來細品這首歌吧</h3>
-<h3>版本差異</h3>
+<h3>《Blood On The Dance Floor》版本差異</h3>
 <p>《Blood on the Dance Floor》歌曲在串流上，應該只能找到專輯中的收錄版，其他的混音版本的歌曲，則散落在當年英國、美國、歐洲發行的實體單曲中。</p>
 <p>MV部分，則有三個官方版本，以及一隻未獲發行，傳說中的8mm版本，整理同下：</p>
 <ul>
-<li>歌曲版本：收錄的地方</li>
-<li>專輯版：Youtube/Number Ones DVD</li>
-<li>Refugee Camp Mix 版本：HIStory on Film, Volume II、Michael Jackson’s Vision</li>
-<li>專輯版：Youtube，2017結合太陽馬戲團表演的重製版本，在本文略過不表</li>
-<li>TM’s Switchblade Mix 版本：未發行的8mm版本</li>
+<li><b>版本1</b>
+  <ul>
+    <li>目前最常見的版本，使用專輯中的歌曲</li>
+    <li>收錄於：官方Youtube、Number Ones DVD</li>
+  </ul>
+</li>
+<li><b>版本2</b>
+  <ul>
+    <li>使用Refugee Camp Mix難民營混音版歌曲，當年的老歌迷最常見的可能是這個版本(太欣慰了)</li>
+    <li>收錄於：HIStory on Film, Volume II、Michael Jackson’s Vision</li>
+  </ul>
+</li>
+<li><b>版本3</b>
+  <ul>
+    <li>未發行的8mm版本，使用TM’s Switchblade Mix 混音版歌曲</li>
+  </ul>
+</li>
+<li><b>版本4</b>
+  <ul>
+    <li>2017太陽馬戲團重製版，使用專輯中的歌曲，本文略過</li>
+    <li>收錄於：官方Youtube</li>
+  </ul>
+</li>
 </ul>
 <h3>《Blood on the Dance Floor》專輯版MV</h3>
 <div class="embed youtube"><iframe allowfullscreen="true" loading="lazy" src="https://www.youtube.com/embed/c3_NntYhzV4?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-tw&amp;autohide=2&amp;wmode=transparent"></iframe></div>
@@ -63,7 +81,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <figure><img alt="Blood on the Dance Floor 宣傳照" class="img-narrow" loading="lazy" src="/mj543/images/botdf30/p1-2.webp"/></figure>
 <p>明明過去的那些情歌在講愛，卻帶著羞澀、性別界線模糊，調情中卻能帶一絲禁慾的氣息的麥可，在血染舞池中不知所蹤，有個黑暗版的麥可，他說「It’s not about love and romance 這不是什麼愛與羅曼史」直接對我們內心最黑暗、最隱密的慾望說話。</p>
 <p>這是第一道我們從血染舞池的裂縫中，看到黑暗版的麥可，我們過去可能在一些表演瞬間、一些歌曲看到這種複雜性，我們嗅得出「他其實什麼都懂。」，但很快的，這個想法又會被那個陽光、輕聲細語又純情善良的彼得潘麥可蓋過。</p>
-<h3>Refugee Camp Mix 難民營混音版</h3>
+<h3>《Blood On The Dance Floor》Refugee Camp Mix 難民營混音版</h3>
 <div class="embed youtube"><iframe allowfullscreen="true" loading="lazy" src="https://www.youtube.com/embed/DhKlE-Fpdok?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-tw&amp;autohide=2&amp;wmode=transparent"></iframe></div>
 <p>(沒有網路的官方版，來看看粉絲修復版的吧)</p>
 <p>而這個難民營混音版的MV，則是介於8mm與專輯版之間，比較平衡的版本。比起專輯版本能配合歌詞做一點劇情推進，他更加的著重在舞蹈的呈現，畢竟專輯版都能把我們弄到停止呼吸了，心裡狂喊「想多看一點」的那段地板舞蹈，非常辣，在難民營混音版就能多窺見一些。</p>
@@ -74,7 +92,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <figure><img alt="Blood on the Dance Floor MV 截圖" height="665" loading="lazy" src="/mj543/images/botdf30/e688aae59c96-2026-05-15-22.11.22.png" width="1024"/></figure>
 <p>事實說來，這隻MV的整體場景並沒有跨越過時代，甚至發行時有些歌迷就覺得俗氣了，例如說哪家夜店長成這樣？</p>
 <p>但用2026的角度來看，我覺得全部把他歸成90s吧，那些90s的歐陸混音MV畫面大概都長這樣，有點低成本，但我真心喜歡的裡面帶有酷兒氣質的舞者們，讓MV中的異色感更重，要說麥可過去做的事情都會成為「王道」的標竿，那這個作品的問題就在於他太過異色。</p>
-<h3>TM’s Switchblade Mix 版本(未發行的8mm版本)</h3>
+<h3>《Blood On The Dance Floor》TM’s Switchblade Mix 版本(未發行的8mm版本)</h3>
 <div class="embed youtube"><iframe allowfullscreen="true" loading="lazy" src="https://www.youtube.com/embed/GeTx0SaIF6Y?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-tw&amp;autohide=2&amp;wmode=transparent"></iframe></div>
 <p>這個被棄用的8mm拍攝版本，是最、最、最有趣的一個版本，導演表示：麥可本人喜歡這版本，但SONY不喜歡，拒絕發行。</p>
 <p>這是網路上流傳的版本，真偽不確定，但網路考古普遍相信是真，完全就是樂評說的「畫面粗糙、曝光過度，而且性感得要命」。</p>
@@ -89,7 +107,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>這張專輯在麥可發行的歷史中，長在一個很奇怪的時間點，起因是因為HIStory巡演第一階段結束，第二階段的巡演將在歐洲開跑，SONY想要做點什麼為歐洲眾多場次造勢。</p>
 <p>原本麥可的想法是做成迷你專輯，SONY則想加碼，加入HIStory混音成一個專輯。最終專輯全名叫做《Blood on the Dance Floor: HIStory in the Mix》，前半是5首新歌，後半是8首混音，跟HIStory和Invincible不知節制的收歌不同，硬是斷成兩截。</p>
 <p>1998 年，麥可接受粉絲雜誌《Black and White》的採訪。他們問他為什麼血染舞池一半是混音而不是新歌。他說「因為SONY說那是粉絲想要的。他們說那是年輕人想聽的。」而採訪他的粉絲說：「呃，不，我們不喜歡混音，我們想要新歌。」據說麥可當時把拳頭舉向空中說：「我就知道。我就知道。」</p>
-<p>SONY的決定多少踩到自身麥可對作品要求的敏感神經，麥可當時夾在巡演、專輯製作以及大兒子即將出生的前夕，他展現了爆棚的創作能量完成了專輯，但或許血染舞池就是日後與SONY決裂的導火線之一吧。</p>
+<p>SONY的決定，或許踩到麥可對作品要求的敏感神經。雖然夾在巡演、專輯製作以及大兒子即將出生的前夕，展現了爆棚的創作能量完成了專輯，但或許血染舞池就是日後麥可與SONY決裂的導火線之一吧。</p>
 <h2>《Morphine》嗎啡</h2>
 <div class="embed youtube"><iframe allowfullscreen="true" loading="lazy" src="https://www.youtube.com/embed/K_G5DLYRz6M?si=wIopZ6gogLiAXLR8?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-tw&amp;autohide=2&amp;wmode=transparent"></iframe></div>
 <p>麥可的御用音樂總監Brad Buxer 曾在訪談中透露：「當 Michael 進入他的黑暗模式，就像《Blood on the Dance Floor》時，那就是最棒的 Michael。」</p>
@@ -120,7 +138,8 @@ ogImage: "/images/botdf30/feature2.jpg"
 <blockquote>
 <p><em>Relax, this won’t hurt you <br/>Before I put it in<br/>Close your eyes and count to ten <br/>Don’t cry, I won’t convert you <br/>There’s no need to dismay <br/>Close your eyes and drift away<br/><br/>放輕鬆，這不會傷害你 <br/>在我把它注射進去之前 <br/>請閉上眼睛，數到十 <br/>別哭，我不會改變你 沒必要害怕 <br/>閉上眼，慢慢漂走吧</em></p>
 </blockquote>
-<p>像是藥效隨著血液的走動，輕柔的生效了，舒服得讓人感覺輕飄飄的，麥可唱得極輕柔，就算是歌詞是驚呼「Demerol，天啊，他正在打 Demerol」，唱起來也像是一種讚嘆，像是像是Demerol能把你這輩子所有肉身的苦痛，飄往冥河最遠端。</p>
+<p>像是止痛藥劑隨著血液的走動，輕柔的生效了，舒服得讓人感覺輕飄飄的，麥可唱得極輕柔，就算是歌詞是驚呼「Demerol，天啊，他正在打 Demerol」，唱起來也像是一種讚嘆，平時作為興奮表現的「Hee Hee」像是強烈疼痛時，被藥效馴服的舒服嘆息。</p>
+<p>像是Demerol能把你這輩子所有肉身的苦痛，飄往冥河最遠端。</p>
 <p>很遺憾，只有肉身，而且它不持久。</p>
 <p>這些美聲在藥效退了以後，又是無止盡的腦中內耗與自我厭惡，震耳欲聾，歌詞更加的惡毒。</p>
 <p>一次又一次，外人的聲音似乎越來越糊，</p>
@@ -179,7 +198,8 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>(全文完)</p>
 <div style="height:40px"></div>
 <h2>附錄</h2>
-<details><summary>Blood on the Dance Floor 血染舞池歌詞 與 中文翻譯</summary>
+<h3>《Blood On The Dance Floor》血染舞池歌詞 與 中文翻譯</h3>
+<details><summary>展開／收合</summary>
 <div class="embed youtube"><iframe allowfullscreen="true" loading="lazy" src="https://www.youtube.com/embed/c3_NntYhzV4?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-tw&amp;autohide=2&amp;wmode=transparent"></iframe></div>
 <p>She got your number, ah</p>
 <p>She know your game, ah</p>
@@ -298,8 +318,10 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>Susie 說這樣才對</p>
 <p>正是血染舞池呢</p>
 <p>但我就是忍不住（那女孩也不會住手）</p>
+<p class="details-close-wrap"><button type="button" class="details-close">收合</button></p>
 </details>
-<details><summary>Morphine 嗎啡 歌詞與中文翻譯</summary>
+<h3>《Morphine》嗎啡 歌詞與中文翻譯</h3>
+<details><summary>展開／收合</summary>
 <div class="embed youtube"><iframe allowfullscreen="true" loading="lazy" src="https://www.youtube.com/embed/K_G5DLYRz6M?si=wIopZ6gogLiAXLR8?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-tw&amp;autohide=2&amp;wmode=transparent"></iframe></div>
 <p>He got flat, baby, kicked in the back, baby</p>
 <p>A heart attack, baby, I hate your father</p>
@@ -457,6 +479,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>hoo，hoo，嗎啡</p>
 <p>繼續吧，繼續沉迷嗎啡</p>
 <p>嗎啡、嗎啡</p>
+<p class="details-close-wrap"><button type="button" class="details-close">收合</button></p>
 </details>
 <h3><strong>《Blood On The Dance Floor》專輯封面誕生故事</strong></h3>
 <figure><img alt="《Blood on the Dance Floor》專輯封面" height="894" src="/mj543/images/botdf30/cover-2.jpg" width="894"/><figcaption>《Blood on the Dance Floor》專輯封面</figcaption></figure>
@@ -472,7 +495,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <p>雖然威爾自己也不知道麥可為什麼堅持要加這個臂章，但總算是驚險完成任務。</p>
 <p>最有趣的是，這張封面雖然沒有那些瘋狂的陰謀論，但確實藏了一個連麥克本人都不知道的「真正祕密」。</p>
 <p>威爾在受訪時首次透露，他的表弟馬修（Matthew Hammond）是麥可的超級大鐵粉。威爾當年承諾表弟，如果自己真的拿到這個工作，就要把表弟的名字縮寫藏進畫裡。於是，在封面左下角的某一棟大樓上，有幾扇亮著燈的窗戶，如果仔細看，它們剛好排列成了「M」和「H」兩個英文字母。這個溫馨又可愛的小彩蛋，才是這張神祕封面背後最真實的故事。</p>
-<h3><strong>官方串流連結</strong></h3>
+<h3><strong>《Blood On The Dance Floor》官方串流連結</strong></h3>
 <ul>
 <li>Spotify <a href="https://open.spotify.com/album/0RNsFWWdiz1rrdLI1pwbvJ" rel="noopener nofollow" target="_blank">Spotify｜Blood on the Dance Floor: HIStory in the Mix</a></li>
 <li>Apple Music <a href="https://music.apple.com/us/album/blood-on-the-dance-floor-history-in-the-mix/193015198" rel="noopener nofollow" target="_blank">Apple Music｜Blood on the Dance Floor: HIStory in the Mix</a></li>
@@ -484,7 +507,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <li>全球銷量：約 600 萬張以上</li>
 <li>歷史定位：目前仍是史上銷量最高的混音專輯之一</li>
 </ul>
-<h3>專輯<strong>曲目</strong></h3>
+<h3>《Blood On The Dance Floor》專輯<strong>曲目</strong></h3>
 <ol>
 <li>Blood on the Dance Floor</li>
 <li>Morphine</li>
