@@ -1,7 +1,7 @@
 ---
 title: "衝向無盡的黑暗｜麥可傑克森《Blood On The Dance Floor》血染舞池專輯 發行30週年深度解析"
 seoTitle: "衝向無盡的黑暗｜麥可傑克森《Blood On The Dance Floor》血染舞池專輯 發行30週年深度解析 - Michael Jackson小事考察委員會"
-description: "15年來，我沉溺在這張近乎邪典的專輯中，這篇文章，會從血染舞池開始，深度考察那些快被遺忘的MV版本，重新凝視1997的麥可在最封神的時期，卻偷偷長出黑暗的藝術家性格。"
+description: "15年來，我沉溺在這張近乎邪典的專輯中，這篇文章，會從血染舞池開始，深度考察歌詞、快被遺忘的MV版本，重新凝視1997的麥可在最封神的時期，卻偷偷長出黑暗的藝術家性格。"
 pubDate: 2026-05-16
 updatedDate: 2026-05-16
 cover: "/images/botdf30/feature2.jpg"
@@ -522,6 +522,7 @@ ogImage: "/images/botdf30/feature2.jpg"
 <li>專輯性質：混音專輯（包含 5 首全新歌曲 + 8 首 HIStory 混音）</li>
 <li>全球銷量：約 600 萬張以上</li>
 <li>歷史定位：目前仍是史上銷量最高的混音專輯之一</li>
+<li>《Blood On The Dance Floor》詞曲、製作：Michael Jackson、Teddy Riley，MV導演：Michael Jackson、Vincent Paterson</li>
 </ul>
 <h3>《Blood On The Dance Floor》專輯<strong>曲目</strong></h3>
 <ol>
