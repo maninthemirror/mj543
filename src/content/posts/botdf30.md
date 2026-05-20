@@ -488,6 +488,8 @@ ogImage: "/images/botdf30/feature2.jpg"
 <li>雖然《Morphine》極度黑暗，不過錄製的當下，麥可的狀況一切正常的工作著，讓Brad沒有想得太多，只覺得這個題材很特殊，那句有力的「Morphine！」還是他們團隊的四個男人在錄音室高唱的結果。</li>
 <li>另一個Brad(Brad Sundberg，技術總監)，似乎也能佐證上面的Brad說的是對的！在麥可錄主唱(Lead Vocal)都非常專心，而且情緒只存在麥克風前，例如說在錄《D.S》時，可以感覺麥可超怒，但一出錄音室，就收拾好情緒，問大家說「午餐要吃什麼？」</li>
 <li>甚至麥可的第一任妻子Lisa，很常到錄音室跟大家玩，但幾個常駐錄音室的幾個班底，還是看報紙才知道他們結婚了⋯⋯他們也同時意識到，麥可的人生很龐大，錄音室團隊只是他人生中的「其中一部分」。</li>
+<li>這支 MV 是Vincent Paterson親自執導與編舞。當時他剛從南美洲結束電影《阿根廷別為我哭泣》（Evita）的拍攝工作，因此將許多南美洲的舞蹈動作融入了編舞語彙中。他找到了一種名為「Cong」的小舞步，並將其作為《Blood on the Dance Floor》整支舞蹈的編排基底，只是麥可缺席了很多排練，只能來一天半，讓導演很無奈，只能讓麥可即興表演，但最終結果很棒。</li>
+<li>在拍攝期間，麥可顯得比以往更加內向與保留，甚至心不在焉，直到殺青日，大家才知道麥可的大兒子出生了。(原來喔！)</li>
 </ol>
 
 <p><b>台灣發行的歌迷回憶，赤色風暴？血染舞池？：</b></p>
@@ -558,6 +560,9 @@ ogImage: "/images/botdf30/feature2.jpg"
 <li><a href="https://michaeljacksonstudies.org/femmes-fatale-the-dangerous-woman-narrative/">Femmes Fatale – The ‘Dangerous Woman’ Narrative | The Journal of Michael Jackson Academic Studies | ISSN: 2452-049</a></li>
 <li><a href="https://www.pezjax.com/bringing-blood-on-the-dance-floor-to-life/">Bringing Blood On The Dance Floor to Life
 </a></li>
+<li><a href="https://blogs.timesofisrael.com/michael-jacksons-blood-on-the-dance-floor-21-years-later">Michael Jackson’s ‘Blood on the Dance Floor,’ 21 Years Later-Luka Neskovic
+</a></li>
+
 </ul>
 <h2>作者</h2>
 <p>Effy，台灣人，在MJ回天堂後沒多久入坑。小眾興趣專家，老是被找不到同好的冷門東西煞到。川崎前鋒球迷，經營網站「<a href="https://nangokufro.tw/" rel="noopener" target="_blank">南國FRO</a>」，還有幾個沒什麼人看的運動專欄。</p>
